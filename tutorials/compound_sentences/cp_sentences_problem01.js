@@ -8,7 +8,7 @@ var $ = function(id) {
 var problem = [
     {
   composedSentence: 'The ancient Egyptians lived along the Nile River, and the ancient Greeks lived near the Aegean Sea.',
-  analyzedSentence: 'The ancient Egyptians lived along the Nile River. The ancient Greeks lived near the Aegean Sea',
+  analyzedSentence: 'The ancient Egyptians lived along the Nile River. The ancient Greeks lived near the Aegean Sea.',
   
     },
  
