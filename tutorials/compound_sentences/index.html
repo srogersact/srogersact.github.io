@@ -46,13 +46,53 @@
     margin: 4px 2px;
     cursor: pointer;
 }
-.theme-base-0d .sidebar {
+.tooltip {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted black;
+}
+
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    left: 50%;
+    margin-left: -60px;
+    opacity: 0;
+    transition: opacity 1s;
+}
+
+.tooltip .tooltiptext::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+}
+
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+    opacity: 1;
+}
+
+/*I would like to be able to change the color theme. The code below "should" have done that.*/
+/*.theme-base-0d .sidebar {
   background-color: #6a9fb5;
 }
 .theme-base-0d .content a,
 .theme-base-0d .related-posts li a:hover {
   color: #6a9fb5;
-}
+}*/
  </style>
 </head>
 
@@ -105,7 +145,8 @@
 
 <p>Egypt is a country in Africa, and Greece is a country in Europe.</p>
 
-<h3>It can easily be analyzed as two sentences. You simply change the comma into a period and remove the <code class="highlighter-rouge">conjunction</code>:</h3>
+<h3>It can easily be analyzed as two sentences. You simply change the comma into a period and remove the <code class="tooltip">conjunction</code>:
+<span class="tooltiptext">"And" is a conjunction.</span></h3>
 
 <p>Egypt is a country in Africa. Greece is a country in Europe.</p>
 
