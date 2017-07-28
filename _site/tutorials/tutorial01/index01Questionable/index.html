@@ -11,7 +11,7 @@
 
   <title>
     
-      Tutorials &middot; Hyde
+      SP01 &middot; Hyde
     
   </title>
 
@@ -76,7 +76,7 @@
       
         
           
-            <a class="sidebar-nav-item active" href="/tutorials/">Tutorials</a>
+            <a class="sidebar-nav-item" href="/tutorials/">Tutorials</a>
           
         
       
@@ -89,18 +89,27 @@
 
 
     <div class="content container">
-      <div class="page">
-  <h1 class="page-title">Tutorials</h1>
-  <p><a href="tutorial01/index.html">Sentence Problem 01</a>.</p>
+      <h2>Make the following into two sentences:</h2>   
 
-<p><a href="tutorial01/index.html">Sentence Problem 02</a>.</p>
+<script src="sentence_problem01.js"></script>
 
-<p><a href="tutorial01/index.html">Sentence Problem 03</a>.</p>
+<h4>Your solution:</h4>
+<form id="sentence_solution_form" name="sentence_solution_form">
 
-<p><a href="tutorial01/index.html">Sentence Problem 04</a>.</p>
+   <!-- From form  I took out
+
+   action="sentence_solution_approval.html" method="get"
 
 
-</div>
+   I want to change the action so that the textarea clears, a new problem is displayed, and a new solution is looked for. It would be nice to have a point be added to a counter, also. -->
+
+    <textarea name="sentence_solution" id="sentence_solution" rows = "5" cols="75"></textarea><br>
+    <h4 id="sentence_solution_blank"> </h4>
+    <h4 id="sentence_solution_error"> </h4>
+
+     <label>&nbsp;</label>
+    <input type="button" id="sentence_solution_approval" value="Please check my work now.">
+</form>
 
     </div>
 

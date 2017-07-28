@@ -11,7 +11,7 @@
 
   <title>
     
-      Introducing Sentence Analysis
+      Compound Sentences
     
   </title>
 
@@ -27,10 +27,85 @@
 
   <!-- RSS -->
   <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
+  <style>
+  textarea  
+{ 
+   font-family: Tahoma, Geneva, sans-serif;  
+   font-size: 22px;  
+   color: blue; 
+}
+.button {
+    background-color: #111791;
+    border: black;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.tooltip {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted blue;
+}
+
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    left: 50%;
+    margin-left: -60px;
+    opacity: 0;
+    transition: opacity 1s;
+}
+
+.tooltip .tooltiptext::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+}
+
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+    opacity: 1;
+}
+.example {
+  color: green;
+  background-color: lightgray;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14pt;
+}
+
+/*I would like to be able to change the color theme. The code below "should" have done that.*/
+/*.theme-base-0d .sidebar {
+  background-color: #6a9fb5;
+}
+.theme-base-0d .content a,
+.theme-base-0d .related-posts li a:hover {
+  color: #6a9fb5;
+}*/
+ </style>
 </head>
 
 
   <body>
+
 
     <div class="sidebar">
   <div class="container sidebar-sticky">
@@ -44,12 +119,10 @@
     </div>
 
     <nav class="sidebar-nav">
-      <a class="sidebar-nav-item" href="/">Home</a>
-
+      <a class="sidebar-nav-item" href="../../index">Home</a>    
           
-            <a class="sidebar-nav-item" href="/about/">About</a>
-          
-            <a class="sidebar-nav-item" href="/tutorials/compound_sentences/">Compound Sentences</a>
+        <a class="sidebar-nav-item" href="/about/">About</a>
+        <a class="sidebar-nav-item" href="/tutorials/">Tutorials</a>
           
         
       
@@ -63,17 +136,71 @@
 
     <div class="content container">
       <div class="post">
-  <h1 class="post-title">Sentence Analysis and Composition</h1>
+  <h1 class="post-title">Compound Sentences</h1>
   <!-- <span class="post-date">28 Dec 2013</span> -->
-  <p>Learning to analyze and compose sentences will help you to be an accurate reader and a skillful writer.</p>
+<!--   <p>Learning to analyze and compose sentences will help you to be an accurate reader and a skillful writer.</p>
+
+ <p>You need to paraphrase, but you don't know how to "put it into your own words"? Learning to analyze and compose sentences will help you to be able to paraphrase more easily.</p>
+<h3 id="compound-sentences">Begin with Compound Sentences</h3> -->
+
+<p>Learning about compound sentences is an easy place to begin analyzing and composing sentences. </p>
+  <div style="background-color:lightpink;">
   <ul>
    <li>When you <em>analyze</em> a sentence, you break it into meaningful parts.</li>
    <li>When you <em>compose</em> a sentence, you join meaningful parts together to make a complete sentence.</li>
 </ul>
- <p>You need to paraphrase, but you don't know how to "put it into your own words"? Learning to analyze and compose sentences will help you to be able to paraphrase more easily.</p>
-<h3 id="compound-sentences">Begin with Compound Sentences</h3>
+</div>
+<h3>Here is a compound sentence:</h3> 
 
-<p>Learning about compound sentences is an easy place to begin analyzing and composing sentences. </p>
+<p class="example">Egypt is a country in Africa, and Greece is a country in Europe.</p>
+
+<h3>It can easily be analyzed as two sentences. You simply change the comma into a period and remove the <em class="tooltip">conjunction:
+<span class="tooltiptext">"And" is a conjunction.</span></em></h3>
+
+<p class="example">Egypt is a country in Africa. Greece is a country in Europe.</p>
+
+<div style="background-color:lightyellow;">
+<h3><strong>You try it!</strong> Make this compound sentence into two sentences:</h3>   
+
+<script src="cp_sentences_problem01.js"></script>
+</div>
+<h4>Your solution:</h4>
+<form id="sentence_solution_form" name="sentence_solution_form">
+
+    <textarea name="sentence_solution" id="sentence_solution" rows = "4" cols="50"></textarea><br>
+    <h4 id="sentence_solution_blank"> </h4>
+    <h4 id="sentence_solution_error"> </h4>
+
+     <label>&nbsp;</label>
+    <input type="button" class = "button" id="sentence_solution_approval" value="Please check my work now.">
+</form>
+
+<h3>Here are two sentences that can easily be composed as a compound sentence. </h3>
+
+<p class="example">Memphis was an important city in Egypt. Athens was an important city in Greece.</p>
+
+<h3>You simply change the period into a comma and add a <em class="tooltip">conjunction:
+<span class="tooltiptext">"And" is a conjunction.</span></em></h3>
+
+<p class="example">Memphis was an important city in Egypt, and Athens was an important city in Greece.</p>
+<div style="background-color:lightyellow;">
+<h3><strong>You try it!</strong> Make this compound sentence into two sentences:</h3>   
+
+<script src="cp_sentences_problem02.js"></script>
+
+<h4>Your solution:</h4>
+<form id="sentence_solution_form" name="sentence_solution_form">
+
+    <textarea name="sentence_solution" id="sentence_solution" rows = "4" cols="50"></textarea><br>
+    <h4 id="sentence_solution_blank"> </h4>
+    <h4 id="sentence_solution_error"> </h4>
+
+     <label>&nbsp;</label>
+    <input type="button" class = "button" id="sentence_solution_approval" value="Please check my work now.">
+</form>
+</div>
+
+<!-- 
 <ul>
   <li>Can you tell the difference between a complete sentence and a sentence fragment? Working with compound sentences will help you to master this important skill.</li>
   <li>Do you sometimes doze off when you try to read a long sentence? You will learn how to break <em>large</em> compound sentences into <em>smaller</em> simple sentences. <strong>Then you can just read one smaller sentence at a time!</strong></li>
@@ -88,7 +215,7 @@
    <li>Have you ever written a complicated sentence that ended up in a big snarl? Learning how to compose a sentence with a compound subject, a compound predicate, or a compound object will help.</li>
 </ul>
 
-<!-- <a target="_blank" class="w3-btn w3-margin-bottom" href="/tutorials/tutorial01">Try this yourself &raquo;</a> -->
+<a target="_blank" class="w3-btn w3-margin-bottom" href="/tutorials/tutorial01">Try this yourself &raquo;</a> -->
 </div>
 
 
