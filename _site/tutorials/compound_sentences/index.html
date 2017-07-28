@@ -36,14 +36,14 @@
    color: blue; 
 }
 .button {
-    background-color: #111791;
+    background-color: darkgreen;
     border: black;
-    color: white;
+    color: linen;
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 16px;
+    font-size: 18px;
     margin: 4px 2px;
     cursor: pointer;
 }
@@ -56,7 +56,7 @@
 .tooltip .tooltiptext {
     visibility: hidden;
     width: 150px;
-    background-color: #555;
+    background-color: darkblue;
     color: #fff;
     text-align: center;
     border-radius: 6px;
@@ -98,15 +98,11 @@
   font-size: 14pt;
 }
 
-/*I would like to be able to change the color theme. The code below "should" have done that.*/
-/*.theme-base-0d .sidebar {
-  background-color: #6a9fb5;
+.you_try {
+  background-color:#cefdce
 }
-.theme-base-0d .content a,
-.theme-base-0d .related-posts li a:hover {
-  color: #6a9fb5;
-}*/
- </style>
+
+</style>
 </head>
 
 
@@ -128,10 +124,7 @@
       <a class="sidebar-nav-item" href="../../index">Home</a>    
           
         <a class="sidebar-nav-item" href="/about/">About</a>
-        <a class="sidebar-nav-item" href="/tutorials/">Tutorials</a>
-          
-        
-      
+        <a class="sidebar-nav-item" href="/tutorials/">Tutorials</a>    
       <span class="sidebar-nav-item">Currently v2.1.0</span>
     </nav>
 
@@ -157,20 +150,24 @@
    <li>When you <em>compose</em> a sentence, you join simple sentences together to make a more complicated sentence.</li>
 </ul>
 </div>
-<h3 class = "blue_title">Here is a compound sentence:</h3> 
+<p>Here is a compound sentence:</p> 
 
-<p class="example">Egypt is a country in Africa, and Greece is a country in Europe.</p>
+  <p class="example">Egypt is a country in Africa, and Greece is a country in Europe.</p>
 
-<h3>It can easily be analyzed as two sentences. You simply change the comma into a period and remove the <em class="tooltip">conjunction:
-<span class="tooltiptext">"And" is a conjunction--and so are "but" and "or."</span></em></h3>
+<p>It can easily be analyzed as two sentences. You simply change the comma into a period and remove the <em class="tooltip">conjunction:
+<span class="tooltiptext">"And" is a conjunction--and so are "but" and "or."</span></em></p>
 
-<p class="example">Egypt is a country in Africa. Greece is a country in Europe.</p>
+  <p class="example">Egypt is a country in Africa. Greece is a country in Europe.</p>
 
-<div style="background-color:lightyellow;">
-<h3><strong>You try it!</strong> Make this compound sentence into two sentences:</h3>   
+<div class="you_try">
+<h3>You try it!</h3>
+<p> <strong> Make this compound sentence into two sentences:</strong> 
 
-<script src="cp_sentences_problem01.js"></script>
-</div>
+<br> 
+
+<script src="cp_sentences_problem01.js"> </script></p>  
+
+
 <h4>Your solution:</h4>
 <form id="sentence_solution_form" name="sentence_solution_form">
 
@@ -181,7 +178,7 @@
      <label>&nbsp;</label>
     <input type="button" class = "button" id="sentence_solution_approval" value="Please check my work now.">
 </form>
-
+</div>
 <h3>Here are two sentences that can easily be composed as a compound sentence. </h3>
 
 <p class="example">Memphis was an important city in Egypt. Athens was an important city in Greece.</p>
@@ -190,101 +187,22 @@
 <span class="tooltiptext">"And" is a conjunction.</span></em></h3>
 
 <p class="example">Memphis was an important city in Egypt, and Athens was an important city in Greece.</p>
-<div style="background-color:lightyellow;">
+<div class="you_try">
+
 <h3><strong>You try it!</strong> Make this compound sentence into two sentences:</h3>   
 
-<script src="cp_sentences_problem02.js"></script>
+  <script src="cp_sentences_problem02.js"></script>
 
-<h4>Your solution:</h4>
-<form id="sentence_solution_form" name="sentence_solution_form">
+      <h4>Your solution:</h4>
+          <form id="sentence_solution_form" name="sentence_solution_form">
 
-    <textarea name="sentence_solution" id="sentence_solution" rows = "4" cols="50"></textarea><br>
-    <h4 id="sentence_solution_blank"> </h4>
-    <h4 id="sentence_solution_error"> </h4>
+              <textarea name="sentence_solution" id="sentence_solution" rows = "4" cols="50"></textarea><br>
+              <h4 id="sentence_solution_blank"> </h4>
+              <h4 id="sentence_solution_error"> </h4>
 
-     <label>&nbsp;</label>
-    <input type="button" class = "button" id="sentence_solution_approval" value="Please check my work now.">
-</form>
+               <label>&nbsp;</label>
+              <input type="button" class = "button" id="sentence_solution_approval" value="Please check my work now.">
+          </form>
 </div>
-
-<!-- 
-<ul>
-  <li>Can you tell the difference between a complete sentence and a sentence fragment? Working with compound sentences will help you to master this important skill.</li>
-  <li>Do you sometimes doze off when you try to read a long sentence? You will learn how to break <em>large</em> compound sentences into <em>smaller</em> simple sentences. <strong>Then you can just read one smaller sentence at a time!</strong></li>
-   <li>You probably already know how to compose a compound sentence. You simply join two or more complete sentences with one or more comma and a conjunction. But do you ever have run-on sentences? Learning how to compose compound sentences will help.</li>
-</ul>
-<h3 id="compound-subject-predicate-object">Compound Subject, Predicate, and Object Sentences</h3>
-
-<p>Sometimes sentences have a compound subject, a compound predicate, or a compound object. </p>
-<ul>
-  <li>Oops! You don't know what <code class="highlighter-rouge">subjects</code>, <code class="highlighter-rouge">predicates</code>, and <code class="highlighter-rouge">objects</code> are?  You'll get familiar with these important words just by using them.</li>
-  <li>Knowing about sentences with compound subjects, compound predicates, and compound objects will help you to understand long sentences. You will learn another way to break <em>larger</em> sentences into <em>smaller</em> simpler sentences. </li>
-   <li>Have you ever written a complicated sentence that ended up in a big snarl? Learning how to compose a sentence with a compound subject, a compound predicate, or a compound object will help.</li>
-</ul>
-
-<a target="_blank" class="w3-btn w3-margin-bottom" href="/tutorials/tutorial01">Try this yourself &raquo;</a> -->
-</div>
-
-
-<!-- <ul>
-  <li>Complete Jekyll setup included (layouts, config, <a href="/404">404</a>, <a href="/atom.xml">RSS feed</a>, posts, and <a href="/about">example page</a>)</li>
-  <li>Mobile friendly design and development</li>
-  <li>Easily scalable text and component sizing with <code class="highlighter-rouge">rem</code> units in the CSS</li>
-  <li>Support for a wide gamut of HTML elements</li>
-  <li>Related posts (time-based, because Jekyll) below each post</li>
-  <li>Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)</li>
-</ul>
-
-<h3 id="hyde-features">Hyde features</h3>
-
-<p>In addition to the features of Poole, Hyde adds the following:</p>
-
-<ul>
-  <li>Sidebar includes support for textual modules and a dynamically generated navigation with active link support</li>
-  <li>Two orientations for content and sidebar, default (left sidebar) and <a href="https://github.com/poole/lanyon#reverse-layout">reverse</a> (right sidebar), available via <code class="highlighter-rouge">&lt;body&gt;</code> classes</li>
-  <li><a href="https://github.com/poole/hyde#themes">Eight optional color schemes</a>, available via <code class="highlighter-rouge">&lt;body&gt;</code> classes</li>
-</ul>
-
-<p><a href="https://github.com/poole/hyde#readme">Head to the readme</a> to learn more.</p>
-
-<h3 id="browser-support">Browser support</h3>
-
-<p>Hyde is by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.</p>
-
-<h3 id="download">Download</h3>
-
-<p>Hyde is developed on and hosted with GitHub. Head to the <a href="https://github.com/poole/hyde">GitHub repository</a> for downloads, bug reports, and features requests.</p>
-
-<p>Thanks!</p>
-
-</div>
-
-<div class="related">
-  <h2>Related Posts</h2>
-  <ul class="related-posts">
-    
-      <li>
-        <h3>
-          <a href="/2012/02/07/example-content/">
-            Example content
-            <small>07 Feb 2012</small>
-          </a>
-        </h3>
-      </li>
-    
-      <li>
-        <h3>
-          <a href="/2012/02/06/whats-jekyll/">
-            What's Jekyll?
-            <small>06 Feb 2012</small>
-          </a>
-        </h3>
-      </li>
-    
-  </ul>
-</div>
-
-    </div> -->
-
   </body>
 </html>
