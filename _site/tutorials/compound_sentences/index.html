@@ -29,11 +29,17 @@
   <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
   <style>
 
+div.you_try {
+  padding: 25px;
+  margin: 5px;
+  background-color:#cefdce
+}
   textarea  { 
    font-family: "PT Sans", Helvetica, Arial, sans-serif; 
    font-size: 20px;  
    color: blue; 
    background: lightyellow;
+   max-width: 100%
 }
 label {
 color: green;
@@ -43,6 +49,13 @@ width: 150px;
 float: above;
 }
 label:after { content: "Your solution: " }
+
+.center {
+    margin: auto;
+    /*width: 50%;*/
+    border: 3px solid green;
+    padding: 10px;
+}
 
 .button {
     background-color: darkgreen;
@@ -55,6 +68,10 @@ label:after { content: "Your solution: " }
     font-size: 18px;
     margin: 4px 2px;
     cursor: pointer;
+}
+.button:hover {
+    background-color: darkblue;
+    color: yellow;
 }
 .tooltip {
     position: relative;
@@ -95,21 +112,21 @@ label:after { content: "Your solution: " }
     opacity: 1;
 }
 .defining_text {
+  padding: 5%;
+  margin: 5px;
   color: darkblue;
   background-color:lightpink
 }
 
 .example {
+  padding: 3%;
   color: green;
   background-color: oldlace;
-  text-align: center;
+  text-align: left;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 14pt;
 }
 
-.you_try {
-  background-color:#cefdce
-}
 
 </style>
 </head>
@@ -179,7 +196,7 @@ label:after { content: "Your solution: " }
 
 <form id="sentence_solution_form" name="sentence_solution_form">
 
-    <textarea name="sentence_solution" id="sentence_solution" rows = "4" cols="30"></textarea><br>
+    <textarea class="center" name="sentence_solution" id="sentence_solution" rows = "4" cols="30"></textarea><br>
     <h4 id="sentence_solution_blank"> </h4>
     <h4 id="sentence_solution_error"> </h4>
 
