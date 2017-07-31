@@ -30,7 +30,8 @@ var approveSolution = function() {
 		alert("Oops! Please try again!");
 		isValid = false;
 		} if (isValid) { 
-		alert("Way to go! Now close the window and go on to the next one!!!"); 
+			$("correct_01") .firstChild.nodeValue = "Correct!";
+		
 			$("sentence_solution_form").submit(); 
 		}
 };
