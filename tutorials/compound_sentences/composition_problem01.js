@@ -7,9 +7,8 @@ var $ = function(id) {
 
 var problem = [
     {
-  composedSentence: 'Knossos is a city on the island of Crete. Sparta is a city on the Peloponnesus.',
-  analyzedSentence: 'Herodotus asked many questions. Herodotus gathered many facts and stories.',
-  
+  analyzedSentence: 'Knossos is a city on the island of Crete. Sparta is a city on the Peloponnesus.',
+  composedSentence: 'Knossos is a city on the island of Crete, and Sparta is a city on the Peloponnesus.',
     },
  
 ];
@@ -30,7 +29,7 @@ var approveSolution = function() {
 		alert("Oops! Please try again!");
 		isValid = false;
 		} if (isValid) { 
-		alert("Way to go! Now close the window and go on to the next one!!!"); 
+		alert("Way to go! Now close this window and keep learning!!!"); 
 			$("sentence_solution_form").submit(); 
 		}
 };
