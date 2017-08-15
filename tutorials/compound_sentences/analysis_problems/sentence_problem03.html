@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">	
+    <title>Problem 3</title>
+    <link rel="stylesheet" href="sentence_problems.css">
+
+</head>
+<body>
+    <main>
+    <h2>Make the following into two or more sentences:</h2>    
+    </main>    
+    <script src="sentence_problem03.js"></script>
+            <h4>Your solution:</h4>
+        <form id="sentence_solution_form" name="sentence_solution_form">
+
+       <!-- From form  I took out
+
+       action="sentence_solution_approval.html" method="get"
+
+
+       I want to change the action so that the textarea clears, a new problem is displayed, and a new solution is looked for. It would be nice to have a point be added to a counter, also. -->
+
+                <textarea name="sentence_solution" id="sentence_solution" rows = "5" cols="50"></textarea><br>
+                <h4 id="sentence_solution_blank"> </h4>
+                <h4 id="sentence_solution_error"> </h4>
+
+                 <label>&nbsp;</label>
+            <input type="button" id="sentence_solution_approval" value="Please check my work now.">
+        </form>
+    </main>
+</body>
+</html>
