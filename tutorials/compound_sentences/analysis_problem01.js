@@ -36,7 +36,7 @@ composedSentence: 'The many hills in Greece could sometimes be used for growing 
 },
 ];
 
-	var i = 5
+	var i = 1
    document.write(problem[i].composedSentence);
 
 var approveSolution = function() {
