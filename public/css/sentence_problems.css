@@ -7,8 +7,8 @@ body {
     padding: 2em 2em 1em;
 }
 h1 {
-	color: darkblue;
-	margin-bottom: .5em;
+    color: darkblue;
+    margin-bottom: .5em;
 }
 h2 {
     color: darkgreen;
@@ -20,9 +20,11 @@ h3 {
 }
 
 label {
-	float: center;
+    float: center;
     width: 15em;
-    text-align: right;
+    text-align: center;
+    color: blue;   
+    font-size: 12px;
 }
 input {
     margin-left: 1em;
@@ -35,7 +37,7 @@ input {
    background: lightyellow;
 }
 span {
-	color: red;
+    color: red;
 }
 .problem {
   padding: 3%;
@@ -43,7 +45,7 @@ span {
   background-color: oldlace;
   text-align: left;
   font-family: Arial, Helvetica, sans-serif;
-  font-size: 14pt;
+  font-size: 16pt;
   color: blue;
 }
 .button {
@@ -60,6 +62,6 @@ span {
 }
 .button:hover {
     background-color: darkblue;
-    color: yellow;
-    font-size: 26px;
+    color: orange;
+    font-size: 25px;
 }
