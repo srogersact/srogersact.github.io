@@ -39,7 +39,7 @@ composedSentence: 'Metalworkers learned the process of smelting, or heating an o
 },
 {
 analyzedSentence: 'The first alloy was bronze. An alloy is a metal that is made by mixing elements.',
-composedSentence: 'The first alloy (metal that is made by mixing elements) was bronze.',
+composedSentence: 'The first alloy (a metal that is made by mixing elements) was bronze.',
 },
 {
 analyzedSentence: 'The melting point of copper is much lower than the melting point of iron. The melting point of copper is 2,000 degrees F.',
