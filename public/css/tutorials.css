@@ -4,6 +4,12 @@
   font-weight:bolder;
   background:darkblue
 }
+span.medium {
+  font-size: 100%;
+  color:white;
+  font-weight:normal;
+  background:darkblue
+}
 
 div.you_try {
   padding: 25px;
@@ -50,7 +56,7 @@ float: above;
 .tooltip {
     position: relative;
     display: inline-block;
-    border-bottom: 1px dotted blue;
+    border-bottom: 2px dotted blue;
 }
 
 .tooltip .tooltiptext {
