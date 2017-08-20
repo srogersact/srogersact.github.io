@@ -63,7 +63,7 @@ var approveSolution = function() {
 		alert("Oops! Please try again!");
 		isValid = false;
 		} if (isValid) { 
-		alert("Way to go! Now you have sentences that are easier to understand!!"); 
+		alert("Way to go! Now you have a sentence that is easier to understand!!"); 
 			$("sentence_solution_form").submit(); 
 		}
 };
