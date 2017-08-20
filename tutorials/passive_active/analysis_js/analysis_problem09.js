@@ -42,7 +42,7 @@ composedSentence: 'Construction cranes are used by modern builders.',
 },
 {
 analyzedSentence: 'Its complicated leaf pattern distinguishes the Corinthian style from the other two styles.',
-composedSentence: 'The Corinthian style is distinguised from the other two styles by its complicated leaf pattern.',
+composedSentence: 'The Corinthian style is distinguished from the other two styles by its complicated leaf pattern.',
 },
 
 ];

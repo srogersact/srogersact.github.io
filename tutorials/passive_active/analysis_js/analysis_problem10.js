@@ -42,7 +42,7 @@ composedSentence: 'Construction cranes are used by modern builders.',
 },
 {
 analyzedSentence: 'Its complicated leaf pattern distinguishes the Corinthian style from the other two styles.',
-composedSentence: 'The Corinthian style is distinguised from the other two styles by its complicated leaf pattern.',
+composedSentence: 'The Corinthian style is distinguished from the other two styles by its complicated leaf pattern.',
 },
 
 ];
@@ -63,7 +63,7 @@ var approveSolution = function() {
 		alert("Oops! Please try again!");
 		isValid = false;
 		} if (isValid) { 
-		alert("Way to go! Now you have sentences that are easier to understand!!"); 
+		alert("Way to go! Now you have a sentence that is easier to understand!!"); 
 			$("sentence_solution_form").submit(); 
 		}
 };
