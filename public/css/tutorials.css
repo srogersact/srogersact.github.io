@@ -113,6 +113,11 @@ float: above;
   font-family: "PT Sans", Helvetica, Arial, sans-serif; 
   font-size: 18pt;
 }
+span.problem_quote {
+  color: darkgreen;
+  background-color: oldlace;
+  font-family: Arial, Helvetica, sans-serif;
+} 
 hr { 
     display: block;
     margin-top: 0.5em;
