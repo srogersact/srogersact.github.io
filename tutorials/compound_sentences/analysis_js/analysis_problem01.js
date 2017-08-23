@@ -27,8 +27,8 @@ analyzedSentence: 'Many rivers flow from north to south. However, the Nile River
 composedSentence: 'Many rivers flow from north to south, but the Nile River flows from south to north.',
 },
 {
-analyzedSentence: 'To travel upstream on the Nile River in ships the Egyptians put up sails to catch the breeze that usually blew from north to south. To go north they put down the sails and rode the current that flowed downstream to the Mediterranean Sea.',
-composedSentence: 'To travel upstream on the Nile River in ships the Egyptians put up sails to catch the breeze that usually blew from north to south, and to go north they put down the sails and rode the current that flowed downstream to the Mediterranean Sea.',
+analyzedSentence: 'To travel upstream on the Nile River in ships the Egyptians put up sails to catch the breeze that usually blew from north to south. However, and they put down the sails and rode the current that flowed downstream to the Mediterranean Sea.',
+composedSentence: 'To travel upstream on the Nile River in ships the Egyptians put up sails to catch the breeze that usually blew from north to south, but to go north they put down the sails and rode the current that flowed downstream to the Mediterranean Sea.',
 },
 {
 analyzedSentence: 'The many hills in Greece could sometimes be used for growing barley and were often used for growing olives and grapes. However, sometimes the hills were steep enough that they could only be used for grazing sheep and goats.',
