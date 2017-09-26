@@ -13,8 +13,8 @@ analyzedSentence: 'Blank. Blank.',
 composedSentence: 'Blank and blank.',
 },
 {
-analyzedSentence: 'Egypt was the world\’s first nation. Egypt accomplished many great things.',
-composedSentence: 'Egypt was the world\’s first nation and accomplished many great things.',
+analyzedSentence: 'Egypt was the first nation in the world. Egypt accomplished many great things.',
+composedSentence: 'Egypt was the first nation in the world and accomplished many great things.',
 },
 {
 analyzedSentence: 'Queen Hatshepsut ruled as a pharaoh. She called herself "king."',
@@ -25,8 +25,8 @@ analyzedSentence: 'Narmer was the king of Upper Egypt. He conquered Lower Egypt.
 composedSentence: 'Narmer was the king of Upper Egypt and conquered Lower Egypt.',
 },
 {
-analyzedSentence: 'Zoser\’s architect put six mastabas on top of each other. He made each mastaba smaller than the one below it.',
-composedSentence: 'Zoser\’s architect put six mastabas on top of each other and made each mastaba smaller than the one below it.',
+analyzedSentence: 'The architect who worked for King Zoser put six mastabas on top of each other. He made each mastaba smaller than the one below it.',
+composedSentence: 'The architect who worked for King Zoser put six mastabas on top of each other and made each mastaba smaller than the one below it.',
 },
 {
 analyzedSentence: 'Egyptians dug through the sand down to bedrock. They cut out a tomb in the bedrock. They put the body in the tomb.',
@@ -41,8 +41,8 @@ analyzedSentence: 'Hatshepsut sent a famous expedition to the country of Punt. S
 composedSentence: 'Hatshepsut sent a famous expedition to the country of Punt and put up obelisks at the Temple at Karnak.',
 },
 {
-analyzedSentence: 'Hatshepsut\’s name was powerful when she was alive. However, her name was erased from all monuments after she died. Her name was not included on the Abydos king list after she died.',
-composedSentence: 'Hatshepsut\’s name was powerful when she was alive but was erased from all monuments and was not included on the Abydos king list after she died.',
+analyzedSentence: 'The name of Hatshepsut was powerful when she was alive. However, her name was erased from all monuments after she died. Her name was not included on the Abydos king list after she died.',
+composedSentence: 'The name of Hatshepsut was powerful when she was alive but was erased from all monuments and was not included on the Abydos king list after she died.',
 },
 {
 analyzedSentence: 'The Egyptian army conquered countries. The Egyptian army brought back wealth from those countries.',
