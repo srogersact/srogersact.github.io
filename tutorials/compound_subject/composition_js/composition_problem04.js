@@ -29,8 +29,8 @@ analyzedSentence: 'Ptolemy I was an important leader in Ptolemaic Egypt. Cleopat
 composedSentence: 'Ptolemy I and Cleopatra VII were important leaders in Ptolemaic Egypt.',
 },
 {
-analyzedSentence: 'The Bent Pyramid was one of Sneferu\’s tombs. The Red Pyramid was another of Sneferu\’s tombs.',
-composedSentence: 'The Bent Pyramid and the Red Pyramid were two of Sneferu\'s tombs.',
+analyzedSentence: 'The Bent Pyramid was one of the tombs of Snefru. The Red Pyramid was another of the tombs of Snefru',
+composedSentence: 'The Bent Pyramid and the Red Pyramid were two of the tombs of Snefru.',
 },
 {
 analyzedSentence: 'Thutmosis III built many impressive structures. Ramses II also built many impressive structures.',
@@ -41,8 +41,8 @@ analyzedSentence: 'A tomb for his wife is one of the most important monuments bu
 composedSentence: 'A tomb for his wife and a tomb for his sons are two of the most important monuments built by Ramses the Great.',
 },
 {
-analyzedSentence: 'A violent temper was one of Alexander\’s personality traits. Stubbornness was another of Alexander\’s personality traits.',
-composedSentence: 'A violent temper and stubbornness were two of Alexander\'s personality traits.',
+analyzedSentence: 'A violent temper was one of the personality traits of Alexander. Stubbornness was another of the personality traits of Alexander.',
+composedSentence: 'A violent temper and stubbornness were two of the personality traits of Alexander.',
 },
 {
 analyzedSentence: 'The beginning of the Middle Kingdom was a time when Egypt was reunited. The beginning of the New Kingdom was also a time when Egypt was reunited.',
