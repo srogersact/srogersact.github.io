@@ -14,7 +14,7 @@ composedSentence: 'Blank and blank.',
 },
 
 {
-analyzedSentence: 'The history of ancient Egyptian civilization began in 3200. The history of ancient Egyptian civilization lasted for thirty centuries.',
+analyzedSentence: 'The history of ancient Egyptian civilization began in 3200. It lasted for thirty centuries.',
 composedSentence: 'The history of ancient Egyptian civilization began in 3200 and lasted for thirty centuries.',
 },
 {
@@ -22,7 +22,7 @@ analyzedSentence: 'The Nile River flooded every year. It deposited fertile new t
 composedSentence: 'The Nile River flooded every year and deposited fertile new topsoil.',
 },
 {
-analyzedSentence: 'The Middle Kingdom was invaded by people called the Hyksos. The Middle Kingdom collapsed.',
+analyzedSentence: 'The Middle Kingdom was invaded by people called the Hyksos. It collapsed.',
 composedSentence: 'The Middle Kingdom was invaded by people called the Hyksos and collapsed.',
 },
 {
@@ -30,7 +30,7 @@ analyzedSentence: 'Egyptians were used to sailing on the Nile River. They did no
 composedSentence: 'Egyptians were used to sailing on the Nile River and did not like having to sail on the Mediterranean Sea.',
 },
 {
-analyzedSentence: 'A successful pharaoh fought his enemies. A successful pharaoh built impressive monuments. A successful pharaoh sent out expeditions to trade with other countries.',
+analyzedSentence: 'A successful pharaoh fought his enemies. He built impressive monuments. He sent out expeditions to trade with other countries.',
 composedSentence: 'A successful pharaoh fought his enemies, built impressive monuments, and sent out expeditions to trade with other countries.',
 },
 {
@@ -38,15 +38,15 @@ analyzedSentence: 'The pharaoh gave plunder from his wars to the priests. He thu
 composedSentence: 'The pharaoh gave plunder from his wars to the priests and thus earned their support.',
 },
 {
-analyzedSentence: 'Libyans invaded Egypt. Libyans ruled for almost 200 years.',
+analyzedSentence: 'Libyans invaded Egypt. They ruled for almost 200 years.',
 composedSentence: 'Libyans invaded Egypt and ruled for almost 200 years.',
 },
 {
-analyzedSentence: 'Egypt was reunited during the New Kingdom. Egypt had powerful rulers during the New Kingdom. However, Egypt eventually grew weak again.',
+analyzedSentence: 'Egypt was reunited during the New Kingdom. It had powerful rulers during the New Kingdom. However, it eventually grew weak again.',
 composedSentence: 'Egypt was reunited and had powerful rulers during the New Kingdom but eventually grew weak again.',
 },
 {
-analyzedSentence: 'Manetho was an Egyptian priest during Ptolemaic Egypt. Manetho wrote a history of Egypt.',
+analyzedSentence: 'Manetho was an Egyptian priest during Ptolemaic Egypt. He wrote a history of Egypt.',
 composedSentence: 'Manetho was an Egyptian priest during Ptolemaic Egypt and wrote a history of Egypt.',
 },
 
