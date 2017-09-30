@@ -34,7 +34,7 @@ analyzedSentence: 'A successful pharaoh fought his enemies. A successful pharaoh
 composedSentence: 'A successful pharaoh fought his enemies, built impressive monuments, and sent out expeditions to trade with other countries.',
 },
 {
-analyzedSentence: 'The pharaoh gave plunder from his wars to the priests. The pharaoh thus earned their support.',
+analyzedSentence: 'The pharaoh gave plunder from his wars to the priests. He thus earned their support.',
 composedSentence: 'The pharaoh gave plunder from his wars to the priests and thus earned their support.',
 },
 {
