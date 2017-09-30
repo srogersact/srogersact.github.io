@@ -37,8 +37,8 @@ analyzedSentence: 'The Valley of the Kings has only one entrance. It is thus eas
 composedSentence: 'The Valley of the Kings has only one entrance and is thus easy to guard.',
 },
 {
-analyzedSentence: 'Hatshepsut sent a famous expedition to the country of Punt. She put up obelisks at the Temple at Karnak.',
-composedSentence: 'Hatshepsut sent a famous expedition to the country of Punt and put up obelisks at the Temple at Karnak.',
+analyzedSentence: 'Queen Hatshepsut sent a famous expedition to the country of Punt. She put up obelisks at the Temple at Karnak.',
+composedSentence: 'Queen Hatshepsut sent a famous expedition to the country of Punt and put up obelisks at the Temple at Karnak.',
 },
 {
 analyzedSentence: 'The name of Hatshepsut was powerful when she was alive. However, her name was erased from all monuments after she died. Her name was not included on the Abydos king list after she died.',
