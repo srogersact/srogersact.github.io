@@ -29,7 +29,7 @@ analyzedSentence: 'Ptolemy I was an important leader in Ptolemaic Egypt. Cleopat
 composedSentence: 'Ptolemy I and Cleopatra VII were important leaders in Ptolemaic Egypt.',
 },
 {
-analyzedSentence: 'The Bent Pyramid was one of the tombs of Snefru. The Red Pyramid was another of the tombs of Snefru',
+analyzedSentence: 'The Bent Pyramid was one of the tombs of Snefru. The Red Pyramid was another of the tombs of Snefru.',
 composedSentence: 'The Bent Pyramid and the Red Pyramid were two of the tombs of Snefru.',
 },
 {
