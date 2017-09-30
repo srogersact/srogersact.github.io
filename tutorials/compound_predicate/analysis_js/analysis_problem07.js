@@ -41,11 +41,11 @@ analyzedSentence: 'Queen Hatshepsut sent a famous expedition to the country of P
 composedSentence: 'Queen Hatshepsut sent a famous expedition to the country of Punt and put up obelisks at the Temple at Karnak.',
 },
 {
-analyzedSentence: 'The name of Hatshepsut was powerful when she was alive. However, her name was erased from all monuments after she died. Her name was not included on the Abydos king list after she died.',
+analyzedSentence: 'The name of Hatshepsut was powerful when she was alive. However, it was erased from all monuments after she died. It was not included on the Abydos king list after she died.',
 composedSentence: 'The name of Hatshepsut was powerful when she was alive but was erased from all monuments and was not included on the Abydos king list after she died.',
 },
 {
-analyzedSentence: 'The Egyptian army conquered countries. The Egyptian army brought back wealth from those countries.',
+analyzedSentence: 'The Egyptian army conquered countries. It brought back wealth from those countries.',
 composedSentence: 'The Egyptian army conquered countries and brought back wealth from those countries.',
 },
 
