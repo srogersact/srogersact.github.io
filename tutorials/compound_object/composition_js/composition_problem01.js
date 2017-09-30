@@ -18,7 +18,7 @@ composedSentence: 'Akhenaten\’s statue has wide hips and a long face.',
 },
 {
 analyzedSentence: 'Pharaoh Horemheb erased Akhenaten\’s name. Pharaoh Horemheb also erased all memory of Akhenaten\’s belief in only one god.',
-composedSentence: 'Pharaoh Horemheb erased Akhenaten\'s name and all memory of Akhenaten\'s belief in only one god.',
+composedSentence: 'Pharaoh Horemheb erased Akhenaten\’s name and all memory of Akhenaten\’s belief in only one god.',
 },
 {
 analyzedSentence: 'Sneferu sent ships to Lebanon for cedar. He sent expeditions to the Sinai desert for turquoise.',
