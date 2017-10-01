@@ -29,12 +29,12 @@ analyzedSentence: 'Ramses II worked to complete the Hypostyle Hall. Ramses II al
 composedSentence: 'Ramses II worked to complete the Hypostyle Hall and his father\’s tomb.',
 },
 {
-analyzedSentence: 'Akhenaten worshiped Aten. Akhenaten did not worship Amun.',
-composedSentence: 'Akhenaten worshiped Aten instead of Amun.',
-},
-{
 analyzedSentence: 'Trade with Babylon was important to Egypt. Trade with Cyprus was also important to Egypt.',
 composedSentence: 'Trade with Babylon and Cyprus was important to Egypt.',
+},
+{
+analyzedSentence: 'Akhenaten worshiped Aten. Akhenaten did not worship Amun.',
+composedSentence: 'Akhenaten worshiped Aten instead of Amun.',
 },
 
 ];
