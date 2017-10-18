@@ -21,7 +21,7 @@ analyzedSentence: 'The smelting process produces an impure iron mixture at lower
 composedSentence: 'Producing an impure iron mixture at lower temperatures, the smelting process had to be followed by vigorous hammering.',
 },
 {
-analyzedSentence: 'The Bronze Age civilization at Mycenae collapsed around 1200 B.C.E. The Bronze Age civilization  at Mycenae was forgotten, but its giant buildings remained.',
+analyzedSentence: 'The Bronze Age civilization at Mycenae collapsed around 1200 B.C.E. The Bronze Age civilization at Mycenae was forgotten, but its giant buildings remained.',
 composedSentence: 'Collapsing around 1200 B.C.E., the Bronze Age civilization at Mycenae was forgotten, but its giant buildings remained.',
 },
 {
