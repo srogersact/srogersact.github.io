@@ -1,7 +1,7 @@
 
 // APPOSITIVE
 
-// This has been modified by setting var i to 1.
+// This page has been modified by setting var i to 1.
 
 
 var $ = function(id) {
