@@ -6,7 +6,7 @@ window.addEventListener("load", e => {
         console.log(`DEBUG: answer: ${question.answer}`);
 
         // create a block to contain the question/answer
-        const questionAnswerBlock = document.createElement("p"); // Create an "li" element
+        const questionAnswerBlock = document.createElement("p");
         questionAnswerBlock.id = `block${index}`;
 
         // question
