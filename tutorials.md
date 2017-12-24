@@ -8,9 +8,10 @@ title: Tutorials
 
 <a href="/tutorials-v2/compound_subject/index.html">Compound Subjects</a>
 
-<!-- TODO Update my hrefs, please! -->
-<a href="/tutorials-v2/compound_sentences/index.html">Compound Predicates</a>
 
+<a href="/tutorials-v2/compound_predicate/index.html">Compound Predicates</a>
+
+<!-- TODO Update my hrefs, please! -->
 <a href="/tutorials-v2/compound_sentences/index.html">Compound Objects</a>
 
 <a href="/tutorials-v2/compound_sentences/index.html">Appositives</a>
