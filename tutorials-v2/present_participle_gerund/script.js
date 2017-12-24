@@ -55,7 +55,8 @@ window.addEventListener("load", e => {
                 parentNode.insertBefore(feedbackElement, targetNode.nextSibling);
             }
             feedbackElement.id = feedbackElementId;
-
+            feedbackElement.className = 'feedback';
+            
             // take the text box contents and compare to the answer
             var solution = parentNode.querySelector('textarea').value;
 
@@ -122,6 +123,7 @@ window.addEventListener("load", e => {
                 parentNode.insertBefore(feedbackElement, targetNode.nextSibling);
             }
             feedbackElement.id = feedbackElementId;
+            feedbackElement.className = 'feedback';
 
             // take the text box contents and compare to the answer
             var solution = parentNode.querySelector('textarea').value;
