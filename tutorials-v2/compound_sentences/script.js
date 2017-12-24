@@ -32,7 +32,7 @@ window.addEventListener("load", e => {
         var textArea = document.createElement('textarea');
         textArea.id = `analysis${i}`;
         textArea.name = "sentence_solution"; // TODO: make sure value matches for the solution checking below
-        textArea.cols = "100";
+        textArea.cols = "64";
         textArea.rows = "5";
 
         // create a button to conceal the answer until clicked...
@@ -99,7 +99,7 @@ window.addEventListener("load", e => {
         var textArea = document.createElement('textarea');
         textArea.id = `composition${i}`;
         textArea.name = "sentence_solution"; // TODO: make sure value matches for the solution checking below
-        textArea.cols = "100";
+        textArea.cols = "64";
         textArea.rows = "5";
 
         // create a button to conceal the answer until clicked...
