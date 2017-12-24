@@ -8,20 +8,17 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Permalinks
-permalink:        pretty
+permalink:        none
 
 # Setup
 title:            Grammar Effects
 tagline:          'for accurate reading, skillful writing, and reliable paraphrasing.'
 description:      'Grammar Effects is a website for learning and practicing accurate reading, skillful writing, and reliable paraphrasing.'
 url:              https://srogersact.github.io/
-baseurl:          /
 
 author:
   name:           'Stephen Rogers'
   url:            https://srogersact.github.io/
-
-paginate:         5
 
 # Custom vars
 version:          2.1.0
