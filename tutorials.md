@@ -14,9 +14,9 @@ title: Tutorials
 
 <a href="/tutorials-v2/compound_sentences/index.html">Compound Objects</a>
 
-<!-- TODO Update my hrefs, please! -->
 
-<a href="/tutorials-v2/compound_sentences/index.html">Appositives</a>
+<a href="/tutorials-v2/appositive/index.html">Appositives</a>
+<!-- TODO Update my hrefs, please! -->
 
 <a href="/tutorials-v2/compound_sentences/index.html">Relative Clauses</a>
 
