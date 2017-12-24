@@ -13,6 +13,7 @@ title: Tutorials
 
 
 <a href="/tutorials-v2/compound_sentences/index.html">Compound Objects</a>
+
 <!-- TODO Update my hrefs, please! -->
 
 <a href="/tutorials-v2/compound_sentences/index.html">Appositives</a>
@@ -22,5 +23,8 @@ title: Tutorials
 <a href="/tutorials-v2/compound_sentences/index.html">Present Participles and Gerunds</a>
 
 <a href="/tutorials-v2/compound_sentences/index.html">Passive and Active Clauses</a>
+
+
+
 
 <a href="/tutorials-v2/past_participle/index.html">Past Participles</a>
