@@ -1,3 +1,8 @@
+################################################################################
+#      NOTE: IF YOU CHANGE ANYTHING IN THIS FILE, YOU MUST RESTART YOUR        #
+#            LOCAL JEKYLL SERVER FOR THE CHANGES TO BE APPLIED                 #
+################################################################################
+
 # Dependencies
 markdown:         kramdown
 highlighter:      rouge
@@ -6,9 +11,9 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content.'
+title:            Grammar Effects
+tagline:          'for accurate reading, skillful writing, and reliable paraphrasing.'
+description:      'Grammar Effects is a website for learning and practicing accurate reading, skillful writing, and reliable paraphrasing.'
 url:              https://srogersact.github.io/
 baseurl:          /
 
@@ -22,4 +27,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/srogersact/srogersact.github.io
