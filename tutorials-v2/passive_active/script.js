@@ -27,7 +27,7 @@ window.addEventListener("load", e => {
         youTryDiv.innerHTML = '';  // TODO: Should we be blindly clearing the div? Or something else?
 
         var prompt = document.createElement('p');
-        prompt.innerHTML = `<b>QUESTION: ${analysis_problems[i].composedSentence}</b>`;
+        prompt.innerHTML = `<b>Make this passive sentence into an active one:</b> <br>${analysis_problems[i].composedSentence}`;
 
         var textArea = document.createElement('textarea');
         textArea.id = `analysis${i}`;
@@ -70,7 +70,7 @@ window.addEventListener("load", e => {
 
             // check: does their solution match my solution?
             if (solution.trim() === analysis_problems[targetNode.id].analyzedSentence) {
-                feedbackElement.innerHTML = `Way to go! Now you have sentences that are easier to understand!!`;
+                feedbackElement.innerHTML = `Way to go! Now you have an active sentence!!`;
                 feedbackElement.style.color = 'green';
                 return;
             }
@@ -96,7 +96,7 @@ window.addEventListener("load", e => {
         youTryDiv.innerHTML = '';  // TODO: Should we be blindly clearing the div? Or something else?
 
         var prompt = document.createElement('p');
-        prompt.innerHTML = `<b>QUESTION: ${composition_problems[i].analyzedSentence}</b>`;
+        prompt.innerHTML = `<b>Make this into a passive sentence: </b> <br>${composition_problems[i].analyzedSentence}`;
 
         var textArea = document.createElement('textarea');
         textArea.id = `composition${i}`;
@@ -139,7 +139,7 @@ window.addEventListener("load", e => {
 
             // check: does their solution match my solution?
             if (solution.trim() === composition_problems[targetNode.id].composedSentence) {
-                feedbackElement.innerHTML = `Way to go! Now you have made a more interesting sentence!!`;
+                feedbackElement.innerHTML = `Way to go! Now you have made a passive sentence!!`;
                 feedbackElement.style.color = 'green';
                 return;
             }

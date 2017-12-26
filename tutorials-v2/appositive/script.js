@@ -27,7 +27,7 @@ window.addEventListener("load", e => {
         youTryDiv.innerHTML = '';  // TODO: Should we be blindly clearing the div? Or something else?
 
         var prompt = document.createElement('p');
-        prompt.innerHTML = `<b>ANALYZE: ${analysis_problems[i].composedSentence}</b>`;
+        prompt.innerHTML = `<b>ANALYZE: </b><br>${analysis_problems[i].composedSentence}`;
 
         var textArea = document.createElement('textarea');
         textArea.id = `analysis${i}`;
@@ -96,7 +96,7 @@ window.addEventListener("load", e => {
         youTryDiv.innerHTML = '';  // TODO: Should we be blindly clearing the div? Or something else?
 
         var prompt = document.createElement('p');
-        prompt.innerHTML = `<b>COMPOSE: ${composition_problems[i].analyzedSentence}</b>`;
+        prompt.innerHTML = `<b>COMPOSE: </b> <br>${composition_problems[i].analyzedSentence}`;
 
         var textArea = document.createElement('textarea');
         textArea.id = `composition${i}`;

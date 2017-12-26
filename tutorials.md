@@ -12,19 +12,19 @@ title: Tutorials
 <a href="/tutorials-v2/compound_predicate/index.html">Compound Predicates</a>
 
 
-<a href="/tutorials-v2/compound_sentences/index.html">Compound Objects</a>
+<a href="/tutorials-v2/compound_object/index.html">Compound Objects</a>
 
 
 <a href="/tutorials-v2/appositive/index.html">Appositives</a>
-<!-- TODO Update my hrefs, please! -->
-
-<a href="/tutorials-v2/compound_sentences/index.html">Relative Clauses</a>
-
-<a href="/tutorials-v2/compound_sentences/index.html">Present Participles and Gerunds</a>
-
-<a href="/tutorials-v2/compound_sentences/index.html">Passive and Active Clauses</a>
 
 
+<a href="/tutorials-v2/relative_clause/index.html">Relative Clauses</a>
+
+
+<a href="/tutorials-v2/present_participle_gerund/index.html">Present Participles and Gerunds</a>
+
+
+<a href="/tutorials-v2/passive_active/index.html">Passive and Active Clauses</a>
 
 
 <a href="/tutorials-v2/past_participle/index.html">Past Participles</a>
