@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tutorials
+title: Grammar Effects Tutorials
 ---
 
 <a href="/tutorials-v2/compound_sentences/index.html">Compound Sentences</a>
