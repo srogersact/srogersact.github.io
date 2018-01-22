@@ -8,11 +8,14 @@ title: Related Materials
 
 <h2>Chapters from <i>The Anabasis</i> by Xenophon the Athenian</h2>
 
-<a href="/tutorials-v2/xenophon/chapter_1">Chapter 1 of Xenophon's Anabasis </a>
+<a href="/tutorials-v2/xenophon/chapter_1">Chapter 1:  Cyrus Gathers An Army </a>
 
-<a href="/tutorials-v2/xenophon/chapter_2">Chapter 2 of Xenophon's Anabasis </a>
+<a href="/tutorials-v2/xenophon/chapter_2">Chapter 2:  Cyrus Marches from Sardis to Tarsus </a>
 
-<a href="/tutorials-v2/xenophon/chapter_3">Chapter 3 of Xenophon's Anabasis </a>
+<a href="/tutorials-v2/xenophon/chapter_3">Chapter 3:  Clearchus Deals with a Mutiny at Tarsus</a>
+
+<a href="/tutorials-v2/xenophon/chapter_4">Chapter 4:  Generals Desert or Show Off to Cyrus</a>
+
 
 <h2>Annotated Chapters from <i>The Anabasis</i> by Xenophon the Athenian</h2>
 
