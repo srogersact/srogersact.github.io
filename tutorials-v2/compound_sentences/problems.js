@@ -16,7 +16,7 @@ var analysis_problems = [
         composedSentence: 'Many rivers flow from north to south, but the Nile River flows from south to north.',
     },
     {
-        analyzedSentence: 'To travel upstream on the Nile River in ships the Egyptians put up sails to catch the breeze that usually blew from north to south. However, and they put down the sails and rode the current that flowed downstream to the Mediterranean Sea.',
+        analyzedSentence: 'To travel upstream on the Nile River in ships the Egyptians put up sails to catch the breeze that usually blew from north to south. However, to go north they put down the sails and rode the current that flowed downstream to the Mediterranean Sea.',
         composedSentence: 'To travel upstream on the Nile River in ships the Egyptians put up sails to catch the breeze that usually blew from north to south, but to go north they put down the sails and rode the current that flowed downstream to the Mediterranean Sea.',
     },
     {
