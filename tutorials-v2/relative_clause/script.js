@@ -27,7 +27,7 @@ window.addEventListener("load", e => {
         youTryDiv.innerHTML = '';  // TODO: Should we be blindly clearing the div? Or something else?
 
         var prompt = document.createElement('p');
-        prompt.innerHTML = `<b>PROBLEM: </b><br>${analysis_problems[i].composedSentence}`;
+        prompt.innerHTML = `<b>Make a sentence from the <u>relative clause</u> in this analysis problem so your answer has two sentences: </b><br>${analysis_problems[i].composedSentence}`;
 
         var textArea = document.createElement('textarea');
         textArea.id = `analysis${i}`;
@@ -95,7 +95,7 @@ window.addEventListener("load", e => {
         youTryDiv.innerHTML = '';  // TODO: Should we be blindly clearing the div? Or something else?
 
         var prompt = document.createElement('p');
-        prompt.innerHTML = `<b>PROBLEM: </b><br>${composition_problems[i].analyzedSentence}`;
+        prompt.innerHTML = `<b>Make one sentence using a <u>relative clause</u> in this composition problem: </b><br>${composition_problems[i].analyzedSentence}`;
 
         var textArea = document.createElement('textarea');
         textArea.id = `composition${i}`;
