@@ -6,6 +6,8 @@ title: Related Materials
 <h2>Practice Materials</h2>
 <a href="/tutorials-v2/pronouns/index.html">Pronouns, Antecedents, and Similar Ideas</a>
 
+<a href="/tutorials-v2/article_about_tablets_with_pronouns_marked/index.html">Pronouns, Antecedents, and Similar Ideas--for Primary Students
+
 <h2>Chapters from <i>The Anabasis</i> by Xenophon the Athenian</h2>
 
 <a href="/tutorials-v2/xenophon/chapter_1">Chapter 1:  Cyrus Gathers An Army </a>
