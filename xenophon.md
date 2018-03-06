@@ -18,6 +18,8 @@ title: Related Materials
 
 <a href="/tutorials-v2/xenophon/chapter_4">Chapter 4:  Generals Desert or Show Off to Cyrus</a>
 
+<a href="/tutorials-v2/xenophon/chapter_5">Chapter 5</a>
+
 
 <h2>Annotated Chapters from <i>The Anabasis</i> by Xenophon the Athenian</h2>
 
