@@ -20,6 +20,9 @@ title: Related Materials
 
 <a href="/tutorials-v2/xenophon/chapter_4">Chapter 4:  Generals Desert or Show Off to Cyrus</a>
 
+<a href="/tutorials-v2/xenophon_tooltip_summaries/chapter_4">Chapter 4:  Generals Desert or Show Off to Cyrus—with Fill-in-the-Blank Summaries</a>
+
+
 <a href="/tutorials-v2/xenophon/chapter_5">Chapter 5</a>
 
 
