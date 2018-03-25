@@ -5,6 +5,8 @@ title: Related Materials
 <h2>Science Vocabulary</h2>
 <a href="/tutorials-v2/chemistry_vocabulary/chemistry_vocabulary_01/index.html">Chemistry Vocabulary 1 </a>
 
+<a href="/tutorials-v2/chemistry_vocabulary/chemistry_vocabulary_02/index.html">Chemistry Vocabulary 2 </a>
+
 <h2>Practice Materials</h2>
 <a href="/tutorials-v2/pronouns/index.html">Pronouns, Antecedents, and Similar Ideas</a>
 
