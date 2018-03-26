@@ -94,7 +94,7 @@ div.you_try p.feedback{
 
 .tooltip .tooltiptext {
     visibility: hidden;
-    width: 250px;
+    width: 150px;
     background-color: blue;
     color: white;
     text-align: center;
