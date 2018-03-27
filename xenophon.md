@@ -25,7 +25,10 @@ title: Related Materials
 <a href="/tutorials-v2/xenophon_tooltip_summaries/chapter_4">Chapter 4:  Generals Desert or Show Off to Cyrus—with Fill-in-the-Blank Summaries</a>
 
 
-<a href="/tutorials-v2/xenophon/chapter_5">Chapter 5</a>
+<a href="/tutorials-v2/xenophon/chapter_5">Chapter 5:  Crossing a Desert, Tempers Flare</a>
+
+
+<a href="/tutorials-v2/xenophon_tooltip_summaries/chapter_5">Chapter 5:  Crossing a Desert, Tempers Flare—with Fill-in-the-Blank Summaries</a>
 
 
 <h2>Annotated Chapters from <i>The Anabasis</i> by Xenophon the Athenian</h2>
