@@ -5,15 +5,15 @@ title: Related Materials
 <h2>Science Vocabulary</h2>
 <a href="/tutorials-v2/chemistry_vocabulary/chemistry_vocabulary_01/index.html">Chemistry Vocabulary 1 </a>
 
-<a href="/tutorials-v2/chemistry_vocabulary/chemistry_vocabulary_01_plain/index.html">Chemistry Vocabulary 1 Plain</a>
+<a href="/tutorials-v2/chemistry_vocabulary/chemistry_vocabulary_01_plain/index.html">Chemistry Vocabulary 1  (Plain)</a>
 
 <a href="/tutorials-v2/chemistry_vocabulary/chemistry_vocabulary_02/index.html">Chemistry Vocabulary 2 </a>
 
-<a href="/tutorials-v2/chemistry_vocabulary/chemistry_vocabulary_02_plain/index.html">Chemistry Vocabulary 2 Plain</a>
+<a href="/tutorials-v2/chemistry_vocabulary/chemistry_vocabulary_02_plain/index.html">Chemistry Vocabulary 2 (Plain)</a>
 
-<a href="/tutorials-v2/chemistry_vocabulary/chemistry_vocabulary_CCR_plain/index.html">Chemistry Vocabulary:  Characteristics of Chemical Reactions Plain</a>
+<a href="/tutorials-v2/chemistry_vocabulary/chemistry_vocabulary_CCR_plain/index.html">Chemistry Vocabulary:  Characteristics of Chemical Reactions (Plain)</a>
 
-<a href="/tutorials-v2/chemistry_vocabulary/chemistry_vocabulary_CEML_plain/index.html">Chemistry Vocabulary:  Changes in Energy on the Molecular Level Plain</a>
+<a href="/tutorials-v2/chemistry_vocabulary/chemistry_vocabulary_CEML_plain/index.html">Chemistry Vocabulary:  Changes in Energy on the Molecular Level (Plain)</a>
 
 
 <h2>Practice Materials</h2>
