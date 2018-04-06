@@ -11,6 +11,10 @@ title: Related Materials
 
 <a href="/tutorials-v2/chemistry_vocabulary/chemistry_vocabulary_02_plain/index.html">Chemistry Vocabulary 2 (Plain)</a>
 
+
+<a href="/tutorials-v2/chemistry_vocabulary/chemistry_vocabulary_CPI_plain/index.html">Chemistry Vocabulary:  Chemical Properties and Interactions (Plain)</a>
+
+
 <a href="/tutorials-v2/chemistry_vocabulary/chemistry_vocabulary_CCR_plain/index.html">Chemistry Vocabulary:  Characteristics of Chemical Reactions (Plain)</a>
 
 <a href="/tutorials-v2/chemistry_vocabulary/chemistry_vocabulary_CEML_plain/index.html">Chemistry Vocabulary:  Changes in Energy on the Molecular Level (Plain)</a>
