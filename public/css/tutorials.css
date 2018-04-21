@@ -179,3 +179,20 @@ div.you_try p.feedback{
     font-family: "PT Sans", Helvetica, Arial, sans-serif;
     font-size: 20pt;
 }
+
+.priority_1 {
+    background-color: pink;
+    padding: 15px 25px;
+}
+.priority_2 {
+    background-color: lightyellow;
+    padding: 15px 25px;
+}
+.priority_3 {
+    background-color: lightgreen;
+    padding: 15px 25px;
+}
+.priority_4 {
+    background-color: lightblue;
+    padding: 15px 25px;
+}

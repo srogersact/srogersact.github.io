@@ -8,14 +8,22 @@ title: Science Vocabulary
 
 <h2>Vocabulary from Chemical Properties and Interactions</h2>
 
+<!-- EXPERIMENT -->
+<a href="/tutorials-v2/chemistry_vocabulary_v2/chemistry_vocabulary_CPI_P1/index.html">Chemical Properties and Interactions PRIORITY 1</a>
 
-<a href="/tutorials-v2/chemistry_vocabulary/chemistry_vocabulary_CPI_plain/index.html">Chemical Properties and Interactions Version 1 <!-- (Plain) --></a>
+<a href="/tutorials-v2/chemistry_vocabulary_v2/chemistry_vocabulary_CPI_P2/index.html">Chemical Properties and Interactions PRIORITY 2</a>
 
-<a href="/tutorials-v2/chemistry_vocabulary/chemistry_vocabulary_CPI_2_plain/index.html">Chemical Properties and Interactions Version 2 <!-- (Plain) --></a>
+<a href="/tutorials-v2/chemistry_vocabulary_v2/chemistry_vocabulary_CPI_P1_2/index.html">Chemical Properties and Interactions PRIORITIES 1 and 2</a>
 
-<a href="/tutorials-v2/chemistry_vocabulary/chemistry_vocabulary_CPI_3_plain/index.html">Chemical Properties and Interactions Version 3 <!-- (Plain) --></a>
+<a href="/tutorials-v2/chemistry_vocabulary_v2/chemistry_vocabulary_CPI_P3/index.html">Chemical Properties and Interactions PRIORITY 3</a>
 
-<a href="/tutorials-v2/chemistry_vocabulary/chemistry_vocabulary_CPI_4_plain/index.html">Chemical Properties and Interactions Version 4 <!-- (Plain) --></a>
+<a href="/tutorials-v2/chemistry_vocabulary_v2/chemistry_vocabulary_CPI_P4/index.html">Chemical Properties and Interactions PRIORITY 4</a>
+
+<a href="/tutorials-v2/chemistry_vocabulary_v2/chemistry_vocabulary_CPI_P3_4/index.html">Chemical Properties and Interactions PRIORITIES 3 and 4</a>
+
+<a href="/tutorials-v2/chemistry_vocabulary_v2/chemistry_vocabulary_CPI_P1_2_3_4/index.html">Chemistry Vocabulary Chemical Properties and Interactions  ALL </a>
+<!-- EXPERIMENT -->
+
 
 <h2>Other Chemistry Vocabulary</h2>
 
