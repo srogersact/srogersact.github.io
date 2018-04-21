@@ -6,7 +6,8 @@ title: Science Vocabulary
  -->
 <!-- <a href="/tutorials-v2/chemistry_vocabulary/chemistry_vocabulary_01/index.html">Chemistry Vocabulary 1 </a> -->
 
-<h2>Vocabulary from Chemical Properties and Interactions</h2>
+<h2>Chemical Properties and Interactions</h2>
+
 
 <!-- EXPERIMENT -->
 <a href="/tutorials-v2/chemistry_vocabulary_v2/chemistry_vocabulary_CPI_P1/index.html">Chemical Properties and Interactions PRIORITY 1</a>
