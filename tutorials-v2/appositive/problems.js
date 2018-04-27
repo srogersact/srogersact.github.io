@@ -1,7 +1,7 @@
 var analysis_problems = [
 {
 analyzedSentence: 'Materials are acted on by forces. Forces are the pushes and pulls on materials.',
-composedSentence: 'Materials are acted on by forces, the pushes and pulls on materials.',
+composedSentence: 'Materials are acted on by forces <a href="#" data-toggle="tooltip" title="Hooray!">____________</a>, the pushes and pulls on materials.',
 },
 {
 analyzedSentence: 'Under tension stone is weak. Tension is a pulling force that tends to make something longer.',
