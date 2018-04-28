@@ -1,11 +1,11 @@
 var analysis_problems = [
 {
 analyzedSentence: 'Materials are acted on by forces. Forces are the pushes and pulls on materials.',
-composedSentence: 'Materials are acted on by forces <a href="#" data-toggle="tooltip" title="Hooray!">____________</a>, the pushes and pulls on materials.',
+composedSentence: 'Materials are acted on by forces, <a data-toggle="tooltip" title="This is what forces are."> the pushes and pulls on materials.</a>',
 },
 {
 analyzedSentence: 'Under tension stone is weak. Tension is a pulling force that tends to make something longer.',
-composedSentence: 'Under tension, a pulling force that tends to make something longer, stone is weak.',
+composedSentence: 'Under tension, <a data-toggle="tooltip" title="This is what tension is."> a pulling force that tends to make something longer</a>, stone is weak.',
 },
 {
 analyzedSentence: 'Columns are the upright cylinders that support beams. Columns are sturdy when they are made of stone.',
