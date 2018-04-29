@@ -26,6 +26,8 @@ title: Xenophon's Anabasis
 <a href="/tutorials-v2/xenophon_tooltip_summaries/chapter_6">Chapter 6:  A Dangerous Friend<!-- —with Fill-in-the-Blank Summaries --></a>
 
 
+<a href="/tutorials-v2/xenophon_tooltip_summaries/chapter_7">Chapter 7:  Promises<!-- —with Fill-in-the-Blank Summaries --></a>
+
 
 <h2>Annotated Chapters from <i>The Anabasis</i> by Xenophon the Athenian</h2>
 
