@@ -13,8 +13,8 @@ analyzedSentence: 'The Bronze Age civilization at Mycenae collapsed around 1200 
 composedSentence: 'Collapsing around 1200 B.C.E., the Bronze Age civilization at Mycenae was forgotten, but its giant buildings remained.',
 },
 {
-analyzedSentence: 'The Greeks usually preferred to use limestone for for less important buildings. The Greeks built their most important buildings with marble.',
-composedSentence: 'Usually preferring to use limestone for for less important buildings, the Greeks built their most important buildings with marble.',
+analyzedSentence: 'The Greeks usually preferred to use limestone for less important buildings. The Greeks built their most important buildings with marble.',
+composedSentence: 'Usually preferring to use limestone for less important buildings, the Greeks built their most important buildings with marble.',
 },
 {
 analyzedSentence: 'Chersiphron turned each column drum on its side. Chersiphron attached a pair of axles and a wooden frame so he could hitch a team of oxen to the drum and roll it to the building site.',
