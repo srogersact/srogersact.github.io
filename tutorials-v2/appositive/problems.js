@@ -5,7 +5,7 @@ composedSentence: 'Materials are acted on by forces, <a data-toggle="tooltip" ti
 },
 {
 analyzedSentence: 'Under tension stone is weak. Tension is a pulling force that tends to make something longer.',
-composedSentence: 'Under tension, <a data-toggle="tooltip" title="This is what tension is."> a pulling force that tends to make something longer</a>, stone is weak.',
+composedSentence: 'Under tension, a pulling force that tends to make something longer</a>, stone is weak.',
 },
 {
 analyzedSentence: 'Columns are the upright cylinders that support beams. Columns are sturdy when they are made of stone.',
