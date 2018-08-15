@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Grammar Effects Tutorials
+title: Gfx for Grade 6
 ---
 
 <a href="/tutorials-v2/compound_sentences/index.html">Compound Sentences</a>
@@ -34,4 +34,4 @@ title: Grammar Effects Tutorials
 
 <a href="/tutorials-v2/pronouns/index.html">Pronouns, Antecedents, and Similar Ideas</a>
 
-<a href="/tutorials-v2/article_about_tablets_with_pronouns_marked/index.html">Pronouns, Antecedents, and Similar Ideas--for Primary Students
+<!-- <a href="/tutorials-v2/article_about_tablets_with_pronouns_marked/index.html">Pronouns, Antecedents, and Similar Ideas--for Primary Students -->

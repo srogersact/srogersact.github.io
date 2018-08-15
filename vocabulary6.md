@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Science Vocabulary
+title: Science Vocabulary for Grade 6
 ---
 <!-- <h2>Science Vocabulary</h2>
  -->
