@@ -15,7 +15,7 @@ composedSentence: 'Blank and blank.',
 },
 {
 analyzedSentence: 'cow',
-composedSentence: 'Name an animal that says, "Moo."',
+composedSentence: 'Name an animal that says, "Moo!"',
 },
 {
 analyzedSentence: 'Under tension stone is weak. Tension is a pulling force that tends to make something longer.',
