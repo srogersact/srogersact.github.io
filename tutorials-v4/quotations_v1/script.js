@@ -96,7 +96,7 @@ window.addEventListener("load", e => {
         youTryDiv.innerHTML = '';  // TODO: Should we be blindly clearing the div? Or something else?
 
         var prompt = document.createElement('p');
-        prompt.innerHTML = `<b>Every character has to be correct, so be careful not to have extra spaces.</b> <br>${composition_problems[i].analyzedSentence}`;
+        prompt.innerHTML = `<b> </b> ${composition_problems[i].analyzedSentence}`;
 
         var textArea = document.createElement('textarea');
         textArea.id = `composition${i}`;

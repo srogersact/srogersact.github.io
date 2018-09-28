@@ -56,8 +56,8 @@ analyzedSentence: 'The teacher said, “line up for library, please.”',
 composedSentence:  'The teacher said, “Line up for library, please.”',
 },
 {
-analyzedSentence: '“why aren\'t we going to music?” Jamie asked Mr. Rogers. ', 
-composedSentence:  '“Why aren\'t we going to music?” Jamie asked Mr. Rogers. ',
+analyzedSentence: '“why are we not going to music?” Jamie asked Mr. Rogers. "we always go to music on Friday."', 
+composedSentence:  '“Why are we not going to music?” Jamie asked Mr. Rogers. "We always go to music on Friday."',
 },
 {
 analyzedSentence: '“we are be going to library,” Mr. Rogers said, “Because it\'s Thursday. It just seems like a Friday.”', 
