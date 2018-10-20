@@ -109,7 +109,22 @@ div.you_try p.feedback{
     transition: opacity 0.3s;
 }
 
-
+.tooltip .tooltiptextR {
+    visibility: hidden;
+    width: 150px;
+    background-color: darkblue;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    left: 105%;
+    margin-left: -60px;
+    opacity: 0;
+    transition: opacity 1s;
+}
 /*.tooltip .tooltiptext::after {
     content: "";
     position: absolute;

@@ -2,6 +2,7 @@
 layout: page
 title: Gfx for Grade 4
 ---
+<a href="/tutorials-v4/sentence_or_fragment_v1/index.html">Sentences or Fragments?</a>
 
 <a href="/tutorials-v4/compound_sentences/index.html">Compound Sentences</a>
 
