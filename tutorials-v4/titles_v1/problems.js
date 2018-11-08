@@ -3,10 +3,10 @@ var analysis_problems = [
 analyzedSentence: 'harry potter and the sorcerer\'s stone',
 composedSentence: 'Harry Potter and the Sorcerer\'s Stone',
 }, 
-{
-analyzedSentence: 'pip bartlett\'s guide to magical creatures ',
-composedSentence: 'Pip Bartlett\'\s Guide to Magical Creatures ',
-}, 
+// {
+// analyzedSentence: 'pip bartlett\'s guide to magical creatures ',
+// composedSentence: 'Pip Bartlett\'s Guide to Magical Creatures ',
+// }, 
 {
 analyzedSentence: 'the strange case of origami yoda',
 composedSentence: 'The Strange Case of Origami Yoda',
@@ -75,10 +75,10 @@ var composition_problems = [
 analyzedSentence: 'harry potter and the sorcerer\'s stone',
 composedSentence: 'Harry Potter and the Sorcerer\'s Stone',
 }, 
-{
-analyzedSentence: 'pip bartlett\'s guide to magical creatures ',
-composedSentence: 'Pip Bartlett\'\s Guide to Magical Creatures ',
-}, 
+// {
+// analyzedSentence: 'pip bartlett\'s guide to magical creatures ',
+// composedSentence: 'Pip Bartlett\'s Guide to Magical Creatures ',
+// }, 
 {
 analyzedSentence: 'the strange case of origami yoda',
 composedSentence: 'The Strange Case of Origami Yoda',
