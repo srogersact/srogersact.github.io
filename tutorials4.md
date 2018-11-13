@@ -35,13 +35,13 @@ title: Gfx for Grade 4
 <h2>Capitals and Punctuation</h2>
 
 <!-- <a href="/tutorials-v4/pronouns/index.html">Pronouns, Antecedents, and Similar Ideas</a> -->
-<a href="/tutorials-v4/quotations_v1">Using Capitals in Quotations
+<a href="/tutorials-v4/commas_v1">Commas
 
-<a href="/tutorials-v4/quotations_v2">Using Punctuation and Capitals in Quotations
+<a href="/tutorials-v4/quotations_v1">Capitals in Quotations
 
-<a href="/tutorials-v4/commas_v1">Punctuation:  Using Commas
+<a href="/tutorials-v4/quotations_v2">Punctuation and Capitals in Quotations
 
-<a href="/tutorials-v4/titles_v1">Using Capitals in Titles
+<a href="/tutorials-v4/titles_v1">Capitals in Titles
 
 
 
