@@ -6,6 +6,7 @@ title: Gfx for Grade 4
 
 <a href="/tutorials-v4/compound_sentences/index.html">Compound Sentences</a>
 
+<a href="/tutorials-v4/article_about_tablets_with_pronouns_marked/index.html">Pronouns, Antecedents, and Similar Ideas
 
 <!-- <a href="/tutorials-v4/compound_subject/index.html">Compound Subjects</a>
 
@@ -31,7 +32,7 @@ title: Gfx for Grade 4
 <a href="/tutorials-v4/past_participle/index.html">Past Participles</a> -->
 
 
-<h2>Related Practice Materials</h2>
+<h2>Capitals and Punctuation</h2>
 
 <!-- <a href="/tutorials-v4/pronouns/index.html">Pronouns, Antecedents, and Similar Ideas</a> -->
 <a href="/tutorials-v4/quotations_v1">Using Capitals in Quotations
@@ -42,6 +43,6 @@ title: Gfx for Grade 4
 
 <a href="/tutorials-v4/titles_v1">Using Capitals in Titles
 
-<a href="/tutorials-v4/article_about_tablets_with_pronouns_marked/index.html">Pronouns, Antecedents, and Similar Ideas
 
-<a href="/tutorials-v4/spelling_sample/index.html">Spelling Sample Problem
+
+<!-- <a href="/tutorials-v4/spelling_sample/index.html">Spelling Sample Problem -->
