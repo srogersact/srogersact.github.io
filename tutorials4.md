@@ -36,6 +36,8 @@ title: Gfx for Grade 4
 <!-- <a href="/tutorials-v4/pronouns/index.html">Pronouns, Antecedents, and Similar Ideas</a> -->
 <a href="/tutorials-v4/quotations_v1">Punctuation:  Using Quotations
 
+<a href="/tutorials-v4/quotations_v2">Using Quotations, Version 2
+
 <a href="/tutorials-v4/commas_v1">Punctuation:  Using Commas
 
 <a href="/tutorials-v4/titles_v1">Using Capitals in Titles
