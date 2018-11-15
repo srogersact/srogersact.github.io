@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gfx for Grade 4
+title: Grade 4 Gfx
 ---
 <a href="/tutorials-v4/sentence_or_fragment_v1/index.html">Sentences or Fragments?</a>
 

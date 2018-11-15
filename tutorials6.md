@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gfx for Grade 6
+title: Grade 6 Gfx
 ---
 
 <a href="/tutorials-v2/compound_sentences/index.html">Compound Sentences</a>
