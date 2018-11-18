@@ -6,6 +6,8 @@ title: Grade 4 Gfx
 
 <a href="/tutorials-v4/compound_sentences/index.html">Compound Sentences</a>
 
+<a href="/tutorials-v4/compound_sentences_compose/index.html">Joining Sentences</a>
+
 <a href="/tutorials-v4/article_about_tablets_with_pronouns_marked/index.html">Pronouns, Antecedents, and Similar Ideas
 
 <!-- <a href="/tutorials-v4/compound_subject/index.html">Compound Subjects</a>
