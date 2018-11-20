@@ -34,4 +34,8 @@ title: Grade 6 Gfx
 
 <a href="/tutorials-v2/pronouns/index.html">Pronouns, Antecedents, and Similar Ideas</a>
 
+
+<h3>If you notice an error or would like to make comments or suggestions, please contact Steve Rogers at srogersact@q.com. 
+<br>I'd love to hear from you!</h3>
+
 <!-- <a href="/tutorials-v2/article_about_tablets_with_pronouns_marked/index.html">Pronouns, Antecedents, and Similar Ideas--for Primary Students -->

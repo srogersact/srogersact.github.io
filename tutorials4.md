@@ -2,6 +2,7 @@
 layout: page
 title: Grade 4 Gfx
 ---
+
 <a href="/tutorials-v4/sentence_or_fragment_v1/index.html">Sentences or Fragments?</a>
 
 <a href="/tutorials-v4/compound_sentences/index.html">Compound Sentences</a>
@@ -45,6 +46,7 @@ title: Grade 4 Gfx
 
 <a href="/tutorials-v4/titles_v1">Capitals in Titles
 
-
+<h3>If you notice an error or would like to make comments or suggestions, please contact Steve Rogers at srogersact@q.com. 
+<br>I'd love to hear from you!</h3>
 
 <!-- <a href="/tutorials-v4/spelling_sample/index.html">Spelling Sample Problem -->
