@@ -69,13 +69,13 @@ window.addEventListener("load", e => {
 
             // check: does their solution match my solution?
             if (solution.trim() === analysis_problems[targetNode.id].analyzedSentence) {
-                feedbackElement.innerHTML = `Way to go! Now you have sentences that are easier to understand!!`;
+                feedbackElement.innerHTML = `Way to go!! <br>Now you have shorter sentences that may be easier to understand.`;
                 feedbackElement.style.color = 'green';
                 return;
             }
 
             // check: in all other cases, prompt them to try again.
-            feedbackElement.innerHTML = `Oops! Please try again!`;
+            feedbackElement.innerHTML = `Oops! <br>Please try again!`;
             feedbackElement.style.color = 'red';
 
         }, this);
@@ -137,13 +137,13 @@ window.addEventListener("load", e => {
 
             // check: does their solution match my solution?
             if (solution.trim() === composition_problems[targetNode.id].composedSentence) {
-                feedbackElement.innerHTML = `Way to go! Now you have made a more interesting sentence!!`;
+                feedbackElement.innerHTML = `Way to go!!`;
                 feedbackElement.style.color = 'green';
                 return;
             }
 
             // check: in all other cases, prompt them to try again.
-            feedbackElement.innerHTML = `Oops! Please try again!`;
+            feedbackElement.innerHTML = `Did you put a comma after the first clause? <br>Did you choose the right conjunction?`;
             feedbackElement.style.color = 'red';
 
         }, this);

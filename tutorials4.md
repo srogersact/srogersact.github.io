@@ -5,9 +5,11 @@ title: Grade 4 Gfx
 
 <a href="/tutorials-v4/sentence_or_fragment_v1/index.html">Sentences or Fragments?</a>
 
-<a href="/tutorials-v4/compound_sentences/index.html">Compound Sentences</a>
+<a href="/tutorials-v4/compound_sentences/index.html">Introduction to Compound Sentences</a>
 
-<a href="/tutorials-v4/compound_sentences_compose/index.html">Joining Sentences</a>
+<a href="/tutorials-v4/compound_sentences_compose/index.html">Joining Sentences to Make Compound Sentences</a>
+
+<a href="/tutorials-v4/compound_sentences_analyze/index.html">Analyzing Compound Sentences</a>
 
 <a href="/tutorials-v4/article_about_tablets_with_pronouns_marked/index.html">Pronouns, Antecedents, and Similar Ideas
 
