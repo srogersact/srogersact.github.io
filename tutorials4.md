@@ -11,7 +11,7 @@ title: Grade 4 Gfx
 
 <a href="/tutorials-v4/compound_sentences_analyze/index.html">Analyzing Compound Sentences</a>
 
-<a href="/tutorials-v4/article_about_tablets_with_pronouns_marked/index.html">Pronouns, Antecedents, and Similar 
+<a href="/tutorials-v4/article_about_tablets_with_pronouns_marked/index.html">Pronouns, Antecedents, and More 
 
 <a href="/tutorials-v4/ellipsis/index.html">Ellipsis: Leaving Words Out</a>
 
