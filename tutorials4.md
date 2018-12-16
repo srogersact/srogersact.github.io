@@ -5,6 +5,8 @@ title: Grade 4 Gfx
 
 <a href="/tutorials-v4/sentence_or_fragment_v1/index.html">Sentences or Fragments?</a>
 
+<a href="/tutorials-v4/predicate_expanders_01/index.html">Predicate Expanders 1</a>
+
 <a href="/tutorials-v4/compound_sentences/index.html">Introduction to Compound Sentences</a>
 
 <a href="/tutorials-v4/compound_sentences_compose/index.html">Joining Sentences to Make Compound Sentences</a>

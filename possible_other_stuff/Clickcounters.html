@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script>
+function clickCounter1() {
+    if(typeof(Storage) !== "undefined") {
+        if (localStorage.try1) {
+            localStorage.try1
+            = Number(localStorage.try1)+1;
+        } else {
+            localStorage.try1 = 1;
+        }
+        document.getElementById("score1").innerHTML = "Oops! Try again! <br>You have clicked the 'Where?' button " + localStorage.try1 + " time(s).";
+    } else {
+        document.getElementById("score1").innerHTML = "Sorry, your browser does not support web storage...";
+    }
+}
+function clickCounter2() {
+    if(typeof(Storage) !== "undefined") {
+        if (localStorage.try2) {
+            localStorage.try2
+            = Number(localStorage.try2)+1;
+        } else {
+            localStorage.try2 = 1;
+        }
+        document.getElementById("score2").innerHTML = "That is correct! <br>You have clicked the 'Why' button " + localStorage.try2 + " time(s).";
+    } else {
+        document.getElementById("score2").innerHTML = "Sorry, your browser does not support web storage...";
+    }
+}
+</script>
+</head>
+<body>
+<h3>What kind of predicate expander is underlined in the following sentence?</h3>
+<p>I clicked the button <u>when I was ready to see whether I got the problem right</u>.</p>
+
+<p><button onclick="clickCounter1()" type="button">Where?</button></p>
+
+
+<p><button onclick="clickCounter2()" type="button">Why?</button></p>
+
+
+<p>Click the button when you are ready to see whether you got the problem right.</p>
+
+<div id="score1"></div>
+<div id="score2"></div>
+</body>
+</html>
