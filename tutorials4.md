@@ -7,6 +7,10 @@ title: Grade 4 Gfx
 
 <a href="/tutorials-v4/predicate_expanders_01/index.html">Predicate Expanders 1</a>
 
+<a href="/tutorials-v4/move_phrases_part_1/index.html">Moving Phrases, Part 1</a>
+
+<a href="/tutorials-v4/move_phrases_part_2/index.html">Moving Phrases, Part 2</a>
+
 <a href="/tutorials-v4/compound_sentences/index.html">Introduction to Compound Sentences</a>
 
 <a href="/tutorials-v4/compound_sentences_compose/index.html">Joining Sentences to Make Compound Sentences</a>
