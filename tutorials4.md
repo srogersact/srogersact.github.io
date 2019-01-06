@@ -7,6 +7,8 @@ title: Grade 4 Gfx
 
 <a href="/tutorials-v4/predicate_expanders_01/index.html">Predicate Expanders 1</a>
 
+<a href="/tutorials-v4/sentence_parts_v1/index.html">Parts of Sentences</a>
+
 <a href="/tutorials-v4/move_phrases_part_1/index.html">Moving Phrases, Part 1</a>
 
 <a href="/tutorials-v4/move_phrases_part_2/index.html">Moving Phrases, Part 2</a>
