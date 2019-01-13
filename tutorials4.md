@@ -11,6 +11,8 @@ title: Grade 4 Gfx
 
 <!-- <a href="/tutorials-v4/sentence_parts_v2/index.html">Parts of Sentences: A Trip Across Washington</a> -->
 
+<a href="/tutorials-v4/sentence_parts_v3/index.html">Parts of Sentences—Regions of Washington</a>
+
 <a href="/tutorials-v4/move_phrases_part_1/index.html">Moving Phrases, Part 1</a>
 
 <a href="/tutorials-v4/move_phrases_part_2/index.html">Moving Phrases, Part 2</a>
