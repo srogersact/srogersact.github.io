@@ -9,7 +9,7 @@ title: Grade 4 Gfx
 
 <a href="/tutorials-v4/sentence_parts_v1/index.html">Parts of Sentences—Introduction</a>
 
-<!-- <a href="/tutorials-v4/sentence_parts_v2/index.html">Parts of Sentences: A Trip Across Washington</a> -->
+<a href="/tutorials-v4/sentence_parts_v2/index.html">Parts of Sentences: A Trip Across Washington</a>
 
 <a href="/tutorials-v4/sentence_parts_v3/index.html">Parts of Sentences—Regions of Washington</a>
 
