@@ -39,6 +39,10 @@ title: Grade 4 Gfx
 
 <a href="/tutorials-v4/ellipsis/index.html">Ellipsis: Leaving Words Out</a>
 
+<h2>Vocabulary</h2>
+
+<a href="/tutorials-v4/ring_of_fire_definitions_marked_v2/index.html">The Ring of Fire--Vocabulary</a>
+
 <!-- <a href="/tutorials-v4/compound_subject/index.html">Compound Subjects</a>
 
 
