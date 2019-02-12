@@ -2,6 +2,7 @@
 layout: page
 title: Grade 4 Gfx
 ---
+<h2>Sentence Basics</h2>
 
 <a href="/tutorials-v4/sentence_or_fragment_v1/index.html">Sentences or Fragments?</a>
 
@@ -19,15 +20,22 @@ title: Grade 4 Gfx
 
 <a href="/tutorials-v4/move_phrases_part_2/index.html">Moving Phrases, Part 2</a>
 
+<a href="/tutorials-v4/article_about_tablets_with_pronouns_marked/index.html">The First Tablets—with Pronouns, Antecedents, and More</a> 
+
+<h2>Compound Sentences</h2>
+
 <a href="/tutorials-v4/compound_sentences/index.html">Introduction to Compound Sentences</a>
 
 <a href="/tutorials-v4/compound_sentences_compose/index.html">Joining Sentences to Make Compound Sentences</a>
 
 <a href="/tutorials-v4/compound_sentences_analyze/index.html">Analyzing Compound Sentences</a>
 
+<h2>Text Structures</h2>
+
 <a href="/tutorials-v4/ring_of_fire_definitions_marked/index.html">Definitions: Read about the Ring of Fire</a>
 
-<a href="/tutorials-v4/article_about_tablets_with_pronouns_marked/index.html">The First Tablets—with Pronouns, Antecedents, and More 
+
+<h2>Comprehending Rhetorical Devices</h2>
 
 <a href="/tutorials-v4/ellipsis/index.html">Ellipsis: Leaving Words Out</a>
 
