@@ -43,6 +43,8 @@ title: Grade 4 Gfx
 
 <a href="/tutorials-v4/ring_of_fire_definitions_marked_v2/index.html">The Ring of Fire--Vocabulary</a>
 
+
+
 <!-- <a href="/tutorials-v4/compound_subject/index.html">Compound Subjects</a>
 
 
@@ -77,6 +79,10 @@ title: Grade 4 Gfx
 <a href="/tutorials-v4/quotations_v2">Punctuation and Capitals in Quotations
 
 <a href="/tutorials-v4/titles_v1">Capitals in Titles
+
+<h2>Miscellaneous</h2>
+
+<a href="/tutorials-v4/calendar_in_spanish/index.html">The Calendar in Spanish</a>
 
 <h3>If you notice an error or would like to make comments or suggestions, please contact Steve Rogers at srogersact@q.com. 
 <br>I'd love to hear from you!</h3>
