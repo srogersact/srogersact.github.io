@@ -40,39 +40,48 @@ composedSentence: 'The Egyptian army conquered countries and brought back wealth
 
 var composition_problems = [
 {
-analyzedSentence: 'The history of ancient Egyptian civilization began in 3200. It lasted for thirty centuries.',
-composedSentence: 'The history of ancient Egyptian civilization began in 3200 and lasted for thirty centuries.',
+analyzedSentence:  'Some magma cools. It hardens into rock.',
+ composedSentence:  'Some magma cools and hardens into rock.', 
 },
 {
-analyzedSentence: 'The Nile River flooded every year. It deposited fertile new topsoil.',
-composedSentence: 'The Nile River flooded every year and deposited fertile new topsoil.',
+analyzedSentence:  'Some of Earth\'s changes are fast. They can be very dramatic.',
+ composedSentence:  'Some of Earth\'s changes are fast and can be very dramatic.', 
 },
 {
-analyzedSentence: 'The Middle Kingdom was invaded by people called the Hyksos. It collapsed.',
-composedSentence: 'The Middle Kingdom was invaded by people called the Hyksos and collapsed.',
+analyzedSentence:  'Some of Earth\'s changes are slow. They are harder to notice.',
+ composedSentence:  'Some of Earth\'s changes are slow and are harder to notice.', 
 },
 {
-analyzedSentence: 'Egyptians were used to sailing on the Nile River. They did not like having to sail on the Mediterranean Sea.',
-composedSentence: 'Egyptians were used to sailing on the Nile River and did not like having to sail on the Mediterranean Sea.',
+analyzedSentence:  'Some volcanoes are dangerous. They can threaten the lives of people living nearby.',
+ composedSentence:  'Some volcanoes are dangerous and can threaten the lives of people living nearby.', 
 },
 {
-analyzedSentence: 'A successful pharaoh fought his enemies. He built impressive monuments. He sent out expeditions to trade with other countries.',
-composedSentence: 'A successful pharaoh fought his enemies, built impressive monuments, and sent out expeditions to trade with other countries.',
+analyzedSentence:  'Some volcanoes erupt. They can change the surrounding landscape very quickly.',
+ composedSentence:  'Some volcanoes erupt and can change the surrounding landscape very quickly.', 
 },
 {
-analyzedSentence: 'The pharaoh gave plunder from his wars to the priests. He thus earned their support.',
-composedSentence: 'The pharaoh gave plunder from his wars to the priests and thus earned their support.',
+analyzedSentence:  'Tectonic plates collide. They cause earthquakes.',
+ composedSentence:  'Tectonic plates collide and cause earthquakes.', 
 },
 {
-analyzedSentence: 'Libyans invaded Egypt. They ruled for almost 200 years.',
-composedSentence: 'Libyans invaded Egypt and ruled for almost 200 years.',
+analyzedSentence:  'The mantle is beneath the crust. It is what the tectonic plates float on.',
+ composedSentence:  'The mantle is beneath the crust and is what the tectonic plates float on.', 
 },
 {
-analyzedSentence: 'Egypt was reunited during the New Kingdom. It had powerful rulers during the New Kingdom. However, it eventually grew weak again.',
-composedSentence: 'Egypt was reunited and had powerful rulers during the New Kingdom but eventually grew weak again.',
+analyzedSentence:  'The mantle is the layer that surrounds Earth\'s core. It is partly liquid.',
+ composedSentence:  'The mantle is the layer that surrounds Earth\'s core and is partly liquid.', 
 },
 {
-analyzedSentence: 'Manetho was an Egyptian priest during Ptolemaic Egypt. He wrote a history of Egypt.',
-composedSentence: 'Manetho was an Egyptian priest during Ptolemaic Egypt and wrote a history of Egypt.',
+analyzedSentence:  'The next layer is Earth\'s outer core. It is the reason Earth has a magnetic field.',
+ composedSentence:  'The next layer is Earth\'s outer core and is the reason Earth has a magnetic field.', 
+},
+{
+analyzedSentence:  'The outer core is about 3,000 miles beneath the surface of Earth. It is liquid.',
+ composedSentence:  'The outer core is about 3,000 miles beneath the surface of Earth and is liquid.', 
+},
+{
+analyzedSentence:  'The outer core is liquid. It is always moving.',
+ composedSentence:  'The outer core is liquid and is always moving.', 
 }
+
 ];
