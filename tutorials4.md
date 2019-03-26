@@ -36,6 +36,9 @@ title: Grade 4 Gfx
 
 <a href="/tutorials-v4/complex_sentences_compose_earth/index.html">Composing Complex Sentences about Earth Changes</a>
 
+<h2>Showing Cause</h2>
+
+<a href="/tutorials-v4/cause_sentences_so_because_earth/index.html">Sentences about Earth Changes That Use "So" and "Because"</a>
 
 <h2>Compound Predicates</h2>
 
