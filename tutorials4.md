@@ -32,6 +32,11 @@ title: Grade 4 Gfx
 
 <a href="/tutorials-v4/compound_sentences_analyze/index.html">Analyzing Compound Sentences</a>
 
+<h2>Complex Sentences</h2>
+
+<a href="/tutorials-v4/complex_sentences_compose_earth/index.html">Composing Complex Sentences about Earth Changes</a>
+
+
 <h2>Compound Predicates</h2>
 
 <a href="/tutorials-v4/compound_predicate/index.html">Composing Compound Predicates</a>
