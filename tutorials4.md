@@ -28,6 +28,8 @@ title: Grade 4 Gfx
 
 <a href="/tutorials-v4/compound_sentences_compose/index.html">Joining Sentences to Make Compound Sentences</a>
 
+<a href="/tutorials-v4/compound_sentences_compose_earth/index.html">Composing Compound Sentences about Earth Changes</a>
+
 <a href="/tutorials-v4/compound_sentences_analyze/index.html">Analyzing Compound Sentences</a>
 
 <h2>Compound Predicates</h2>
