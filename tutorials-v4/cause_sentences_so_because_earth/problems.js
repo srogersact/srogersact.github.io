@@ -53,6 +53,10 @@ analyzedSentence:  'Erosion is surprisingly powerful. It makes huge changes but 
 composedSentence:  'Erosion is surprisingly powerful because it makes huge changes but very slowly.', 
 },
 {
+analyzedSentence:  'Tsunamis can be huge. They can cause a lot of damage.', 
+composedSentence:  'Tsunamis can be huge, so they can cause a lot of damage.', 
+},
+{
 analyzedSentence:  'Mount St. Helens had not erupted for many years. It was surprising that Mount St. Helens was smoking.',
 composedSentence:  'Mount St. Helens had not erupted for many years, so it was surprising that Mount St. Helens was smoking.',
  
@@ -78,6 +82,13 @@ composedSentence:  'Other volcanoes had acted this way in the past, so scientist
 analyzedSentence:  'The solid rock sinks. It is denser than liquid magma.',
 composedSentence:  'The solid rock sinks because it is denser than liquid magma.', 
 },
+
+{
+analyzedSentence:  'The crust is comparatively thin. Sometimes magma from the mantle can break through.', 
+composedSentence:  'The crust is comparatively thin, so sometimes magma from the mantle can break through.', 
+},
+
+
 
 
 
