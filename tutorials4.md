@@ -44,6 +44,10 @@ title: Grade 4 Gfx
 
 <a href="/tutorials-v4/compound_predicate/index.html">Composing Compound Predicates</a>
 
+<h2>Relatives</h2>
+
+<a href="/tutorials-v4/relative_that_earth_changes/index.html">Sentences about Earth Changes That Use "That"</a>
+
 <h2>Text Structures</h2>
 
 <a href="/tutorials-v4/ring_of_fire_definitions_marked/index.html">Definitions: Read about the Ring of Fire</a>
