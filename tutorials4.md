@@ -87,16 +87,7 @@ title: Grade 4 Gfx
 <a href="/tutorials-v4/past_participle/index.html">Past Participles</a> -->
 
 
-<h2>Capitals and Punctuation</h2>
 
-<!-- <a href="/tutorials-v4/pronouns/index.html">Pronouns, Antecedents, and Similar Ideas</a> -->
-<a href="/tutorials-v4/commas_v1">Commas
-
-<a href="/tutorials-v4/quotations_v1">Capitals in Quotations
-
-<a href="/tutorials-v4/quotations_v2">Punctuation and Capitals in Quotations
-
-<a href="/tutorials-v4/titles_v1">Capitals in Titles
 
 <h2>Miscellaneous</h2>
 
