@@ -5,12 +5,12 @@ analyzedSentence: 'the littmus lozenge tasted a little melancholy',
 composedSentence: 'The Littmus Lozenge tasted a little melancholy.',
 }, 
 {
-analyzedSentence: 'the preacher said that the littmus lozenge tasted a little melancholy ',
-composedSentence: 'The preacher said that the Littmus Lozenge tasted a little melancholy. ',
+analyzedSentence: 'the preacher said that the lozenge tasted a little melancholy ',
+composedSentence: 'The preacher said that the lozenge tasted a little melancholy.',
 }, 
 {
-analyzedSentence: 'the preacher said the littmus lozenge tastes a little melancholy ',
-composedSentence: 'The preacher said, "The Littmus Lozenge tastes a little melancholy." ',
+analyzedSentence: 'the preacher said the candy tastes a little melancholy ',
+composedSentence: 'The preacher said, "The candy tastes a little melancholy." ',
 }, 
 {
 analyzedSentence: 'we shouldnt make other peoples tragedies the subject of idle conversation',
@@ -44,12 +44,12 @@ analyzedSentence: 'the littmus lozenge tasted a little melancholy',
 composedSentence: 'The Littmus Lozenge tasted a little melancholy.',
 }, 
 {
-analyzedSentence: 'the preacher said that the littmus lozenge tasted a little melancholy ',
-composedSentence: 'The preacher said that the Littmus Lozenge tasted a little melancholy. ',
+analyzedSentence: 'the preacher said that the lozenge tasted a little melancholy ',
+composedSentence: 'The preacher said that the lozenge tasted a little melancholy. ',
 }, 
 {
-analyzedSentence: 'the preacher said the littmus lozenge tastes a little melancholy ',
-composedSentence: 'The preacher said, "The Littmus Lozenge tastes a little melancholy." ',
+analyzedSentence: 'the preacher said the candy tastes a little melancholy ',
+composedSentence: 'The preacher said, "The candy tastes a little melancholy." ',
 }, 
 {
 analyzedSentence: 'we shouldnt make other peoples tragedies the subject of idle conversation',
