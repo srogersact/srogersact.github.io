@@ -89,7 +89,7 @@ div.you_try p.feedback{
 .tooltip {
     position: relative;
     display: inline-block;
-    border-bottom: 2px dotted blue;
+    border-bottom: 3px dashed blue;
 }
 
 .tooltip .tooltiptext {
