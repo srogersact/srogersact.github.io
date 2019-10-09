@@ -4,13 +4,23 @@ title: Grade 4 Gfx
 ---
 <h2>Sentence Basics</h2>
 
-<a href="/tutorials-v4/reference_words_branches_of_government_part_1/index.html">Branches of State Government, Part 1—with Pronouns, Antecedents, and More</a>
+<h3>Pronouns, Antecedents, and More</h3>
 
-<a href="/tutorials-v4/reference_words_branches_of_government_part_1_no_underline/index.html">Branches of State Government, Part 1—with Pronouns, Antecedents, and More (No Underlining)</a>
+<a href="/tutorials-v4/reference_words_branches_of_government_part_1/index.html">Branches of State Government, Part 1</a>
 
-<a href="/tutorials-v4/reference_words_branches_of_government_part_2/index.html">Branches of State Government, Part 2—with Pronouns, Antecedents, and More</a>
+<a href="/tutorials-v4/reference_words_branches_of_government_part_1_no_underline/index.html">Branches of State Government, Part 1 (Expert Level)</a>
 
-<a href="/tutorials-v4/reference_words_branches_of_government_part_3/index.html">Branches of State Government, Part 3—with Pronouns, Antecedents, and More</a>
+<a href="/tutorials-v4/reference_words_branches_of_government_part_2/index.html">Branches of State Government, Part 2</a>
+
+<a href="/tutorials-v4/reference_words_branches_of_government_part_2_no_underline/index.html">Branches of State Government, Part 2 (Expert Level)</a>
+
+<a href="/tutorials-v4/reference_words_branches_of_government_part_3/index.html">Branches of State Government, Part 3</a>
+
+<a href="/tutorials-v4/reference_words_branches_of_government_part_3_no_underline/index.html">Branches of State Government, Part 3 (Expert Level)</a>
+
+<a href="/tutorials-v4/article_about_tablets_with_pronouns_marked/index.html">The First Tablets</a> 
+
+<h3>Parts of Sentences</h3>
 
 <a href="/tutorials-v4/sentence_or_fragment_v1/index.html">Sentences or Fragments?</a>
 
@@ -28,7 +38,7 @@ title: Grade 4 Gfx
 
 <a href="/tutorials-v4/move_phrases_part_2/index.html">Moving Phrases, Part 2</a>
 
-<a href="/tutorials-v4/article_about_tablets_with_pronouns_marked/index.html">The First Tablets—with Pronouns, Antecedents, and More</a> 
+
 
 <h2>Compound Sentences</h2>
 
