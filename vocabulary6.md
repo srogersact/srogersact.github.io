@@ -38,3 +38,5 @@ title: Grade 6 Science Vocabulary
 
 <a href="/tutorials-v2/chemistry_vocabulary/chemistry_vocabulary_CEML_plain/index.html">Changes in Energy on the Molecular Level <!-- (Plain) --></a>
 
+<h3>If you notice an error or would like to make comments or suggestions, please contact Steve Rogers at srogersact@gmail.com. 
+<br>I'd love to hear from you!</h3>

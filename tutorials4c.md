@@ -26,7 +26,7 @@ title: Grade 4 Conventions
 
 
 
-<h3>If you notice an error or would like to make comments or suggestions, please contact Steve Rogers at srogersact@q.com. 
+<h3>If you notice an error or would like to make comments or suggestions, please contact Steve Rogers at srogersact@gmail.com. 
 <br>I'd love to hear from you!</h3>
 
 <!-- <a href="/tutorials-v4/spelling_sample/index.html">Spelling Sample Problem -->

@@ -37,3 +37,6 @@ title: Xenophon's Anabasis
 
 <a href="/tutorials-v2/xenophon_pronoun_antecedent/chapter_1/index.html">Chapter 1 of Xenophon's Anabasis (with pronouns, antecedents, and similar ideas marked)</a>
 
+<h3>If you notice an error or would like to make comments or suggestions, please contact Steve Rogers at srogersact@gmail.com. 
+<br>I'd love to hear from you!</h3>
+
