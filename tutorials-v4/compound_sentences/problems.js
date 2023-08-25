@@ -4,6 +4,16 @@ var analysis_problems = [
         composedSentence: 'A trout is a kind of fish, and an eagle is a kind of bird.',
     },
     {
+        analyzedSentence: 'Fish swim. Birds fly.',
+        composedSentence: 'Fish swim, and birds fly.',
+    },{
+        analyzedSentence: 'Fish have fins. Birds have wings.',
+        composedSentence: 'Fish have fins, and birds have wings.',
+    },{
+        analyzedSentence: 'A trout swims with its fins. An eagle flies with its wings.',
+        composedSentence: 'A trout swims with its fins, and an eagle flies with its wings.',
+    },
+    {
         analyzedSentence: 'Snakes slither on the ground. Penguins glide through the water. Monkeys swing through the trees.',
         composedSentence: 'Snakes slither on the ground, penguins glide through the water, and monkeys swing through the trees.',
     },
