@@ -69,7 +69,7 @@ window.addEventListener("load", e => {
 
             // check: does their solution match my solution?
             if (solution.trim() === analysis_problems[targetNode.id].analyzedSentence) {
-                feedbackElement.innerHTML = `Way to go! Now you have sentences that are easier to understand!!`;
+                feedbackElement.innerHTML = `Correct!`;
                 feedbackElement.style.color = 'green';
                 return;
             }
@@ -137,7 +137,7 @@ window.addEventListener("load", e => {
 
             // check: does their solution match my solution?
             if (solution.trim() === composition_problems[targetNode.id].composedSentence) {
-                feedbackElement.innerHTML = `Way to go! Now you have made a more interesting sentence!!`;
+                feedbackElement.innerHTML = `Way to go!`;
                 feedbackElement.style.color = 'green';
                 return;
             }
