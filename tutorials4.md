@@ -2,9 +2,9 @@
 layout: page
 title: Grade 4 Gfx
 ---
-<h2>Sentence Basics</h2>
+<!-- <h2>Sentence Basics</h2> -->
 
-<h3>Pronouns, Antecedents, and More</h3>
+<!-- <h3>Pronouns, Antecedents, and More</h3>
 
 <a href="/tutorials-v4/reference_words_branches_of_government_part_1/index.html">Branches of State Government, Part 1</a>
 
@@ -36,7 +36,7 @@ title: Grade 4 Gfx
 
 <a href="/tutorials-v4/move_phrases_part_1/index.html">Moving Phrases, Part 1</a>
 
-<a href="/tutorials-v4/move_phrases_part_2/index.html">Moving Phrases, Part 2</a>
+<a href="/tutorials-v4/move_phrases_part_2/index.html">Moving Phrases, Part 2</a> -->
 
 
 
@@ -79,9 +79,9 @@ title: Grade 4 Gfx
 
 <a href="/tutorials-v4/ellipsis/index.html">Ellipsis: Leaving Words Out</a>
 
-<h2>Vocabulary</h2>
+<!-- <h2>Vocabulary</h2>
 
-<a href="/tutorials-v4/ring_of_fire_definitions_marked_v2/index.html">The Ring of Fire--Vocabulary</a>
+<a href="/tutorials-v4/ring_of_fire_definitions_marked_v2/index.html">The Ring of Fire--Vocabulary</a> -->
 
 
 
@@ -111,9 +111,9 @@ title: Grade 4 Gfx
 
 
 
-<h2>Miscellaneous</h2>
+<!-- <h2>Miscellaneous</h2>
 
-<a href="/tutorials-v4/calendar_in_spanish/index.html">The Calendar in Spanish</a>
+<a href="/tutorials-v4/calendar_in_spanish/index.html">The Calendar in Spanish</a> -->
 
 <h3>If you notice an error or would like to make comments or suggestions, please contact Steve Rogers at srogersact@gmail.com. 
 <br>I'd love to hear from you!</h3>
