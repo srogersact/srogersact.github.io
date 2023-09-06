@@ -70,12 +70,12 @@ title: Grade 4 Gfx
 
 <a href="/tutorials-v4/relative_that_earth_changes/index.html">Sentences about Earth Changes That Use "That"</a>
 
-<h2>Text Structures</h2>
+<h2>Comprehending an Important Text Structure</h2>
 
 <a href="/tutorials-v4/ring_of_fire_definitions_marked/index.html">Definitions: Read about the Ring of Fire</a>
 
 
-<h2>Comprehending Rhetorical Devices</h2>
+<h2>Comprehending an Important Rhetorical Device</h2>
 
 <a href="/tutorials-v4/ellipsis/index.html">Ellipsis: Leaving Words Out</a>
 
