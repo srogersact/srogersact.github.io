@@ -68,7 +68,7 @@ title: Grade 4 Gfx
 
 <h2>Relatives</h2>
 
-<a href="/tutorials-v4/relative_that_earth_changes/index.html">Sentences about Earth Changes That Use "That"</a>
+<a href="/tutorials-v4/relative_that_earth_changes/index.html">Sentences That Use "That"</a>
 
 <h2>Comprehending an Important Text Structure</h2>
 
