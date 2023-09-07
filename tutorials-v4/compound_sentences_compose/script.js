@@ -69,7 +69,7 @@ window.addEventListener("load", e => {
 
             // check: does their solution match my solution?
             if (solution.trim() === analysis_problems[targetNode.id].analyzedSentence) {
-                feedbackElement.innerHTML = `Way to go! <br>Now you have sentences that are easier to understand!!`;
+                feedbackElement.innerHTML = `Way to go! <br>Now you have simple sentences!`;
                 feedbackElement.style.color = 'green';
                 return;
             }
