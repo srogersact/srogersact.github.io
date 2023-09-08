@@ -50,9 +50,12 @@ title: Grade 4 Gfx
 
 <a href="/tutorials-v4/compound_sentences_analyze/index.html">Analyzing Compound Sentences</a>
 
-<h2>Analyzing Sentences</h2>
+<!-- **************
+	NOTE: Analyzing Sentences has students do a variety of things with sentences. It seems confusing as it is right now. 
+**********************-->
+<!-- <h2>Analyzing Sentences</h2>
 
-<a href="/tutorials-v4/compound_sentences_analyze_v2/index.html">Analyzing Sentences</a>
+<a href="/tutorials-v4/compound_sentences_analyze_v2/index.html">Analyzing Sentences</a> -->
 
 <h2>Complex Sentences</h2>
 
