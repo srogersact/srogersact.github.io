@@ -2,9 +2,8 @@
 layout: page
 title: Grade 4 Gfx
 ---
- <h2>Sentence Basics</h2>
-
-<h3>Pronouns, Antecedents, and More</h3>
+ <!-- <h2>Sentence Basics</h2>-->
+<h2>Pronouns, Antecedents, and More</h2>
 
 <a href="/tutorials-v4/reference_words_branches_of_government_part_1/index.html">Branches of State Government, Part 1</a>
 
@@ -20,7 +19,7 @@ title: Grade 4 Gfx
 
 <a href="/tutorials-v4/article_about_tablets_with_pronouns_marked/index.html">The First Tablets</a> 
 
-<h3>Parts of Sentences</h3>
+<h2>Parts of Sentences</h2>
 
 <a href="/tutorials-v4/sentence_or_fragment_v1/index.html">Sentences or Fragments?</a>
 
